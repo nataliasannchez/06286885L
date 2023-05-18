@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He feels like he has a huge point to prove.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163526Z" creationid="diegodiaz" creationdate="20230518T163526Z">
+        <seg>siente que tiene mucho que demostrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Her twin brother Chad (Mason Gooding), is simply adorable, a sweet, handsome non-toxic jock who has chemistry with everyone.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
         <seg>Su hermana menor Tara (Jenna Ortega) es su razón de vivir, pero Tara quiere su propia vida, algo que el público sabe que nunca podrá tener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He’s got a lot of soul searching to do still.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163620Z" creationid="diegodiaz" creationdate="20230518T163620Z">
+        <seg>Todavía tiene mucho que buscar en su interior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,10 +774,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rupert is his boss and Rupert’s not a force for good in anyone’s life.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163541Z" creationid="diegodiaz" creationdate="20230518T163541Z">
+        <seg>Rupert es su jefe y Rupert no es una fuerza para el bien en la vida de nadie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>She’s willing to sacrifice herself to save the world, but Joel isn’t willing to live without her.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
         <seg>Está dispuesta a sacrificarse para salvar el mundo, pero Joel no está dispuesto a vivir sin ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So in terms of from good to bad, he’s quite complicated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163557Z" creationid="diegodiaz" creationdate="20230518T163557Z">
+        <seg>Así que en términos de bueno a malo, es bastante complicado.</seg>
       </tuv>
     </tu>
     <tu>
