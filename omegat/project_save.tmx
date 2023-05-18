@@ -6,10 +6,170 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Enter Ollie Rosenblatt of Senbla, a London-based company that produces movie screenings in which the soundtrack is performed by a live orchestra.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
+        <seg>&lt;s0&gt;Entra Ollie Rosenblatt, de Senbla, una empresa con sede en Londres que produce proyecciones de películas en las que la banda sonora es interpretada por una orquesta en directo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Or, so he thought, until he caught a show in which a small local orchestra performed two cues from one of his most popular works, the score to &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T154942Z" creationid="sanch" creationdate="20230505T154942Z">
+        <seg>&lt;s0&gt;O eso pensaba, hasta que vio un espectáculo en el que una pequeña orquesta local interpretaba dos pasajes de una de sus obras más populares, la partitura de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;When he was approached about &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, an animated film about an Afro-Latinx teenager from Brooklyn who takes up the mantle of the web-slinging vigilante, the turntable-scratched orchestra seemed like a fit, but Pemberton was initially skeptical that a big-budget animated superhero movie would be a welcome venue for his experimentation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230512T152036Z" creationid="sanch" creationdate="20230505T161659Z">
+        <seg>&lt;s0&gt;Cuando le propusieron&lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; una película animada sonbre un adolescente afrolatinoamericano de Brooklyn que ocupa el manto del justiciero de la web, la rasgada orquesta giratoria parecía quedar bien, pero Pemberton era escéptico al principio con que una pelicula animada de un super héroe con poco presupuesto fuera lo adecuado para su expermientación. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A prolific film and television composer who’s collaborates with Ridley Scott, Guy Ritchie, and Danny Boyle, Pemberton prides himself in expanding the sonic palette of film music in a multitude of directions, mixing elements of different genres in surprising ways or employing unusual instruments or even non-instruments, like soda bottles or his own body.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T152310Z" creationid="sanch" creationdate="20230505T152310Z">
+        <seg>Un prolífico director de películas y televisión que ha colaborado con Ridley Scott, Guy Ritchie y Danny Boyle, Pemberton se enorgullece expandiendo la paleta sónica de la música de películas en una multitud de direcciones, mezclando elementos de distinto género de formas sorprendentes o usando instrumentos inusuales, incluso con objetos, como botellas de soda o su propio cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By &lt;s0&gt;&lt;a1&gt;Dylan Roth&lt;/a1&gt;&lt;/s0&gt; • &lt;s2&gt;&lt;t3&gt;03/10/23 8:09am&lt;/t3&gt;&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T151752Z" creationid="sanch" creationdate="20230505T151752Z">
+        <seg>Por &lt;s0&gt;&lt;a1&gt;Dylan Roth&lt;/a1&gt;&lt;/s0&gt; • &lt;s2&gt;&lt;t3&gt;03/10/23 8:09am&lt;/t3&gt;&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Daniel Pemberton never expected to hear his music performed live by a concert orchestra.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T153013Z" creationid="sanch" creationdate="20230505T151910Z">
+        <seg>Daniel Pemberton nunca se había imaginado escuchar su música en directo en un concierto de orquesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ever since then, I always wanted to do a score where I record the orchestra and then scratch it back in.”</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
+        <seg>Desde entonces, siempre quise hacer una partitura en la que grabara la orquesta y luego la volviera a rascar."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Film composer Daniel Pemberton explains the challenges of bringing the sounds of "Spider-Man: Into the Spider-Verse" from the screen to the stage in Brooklyn, the home of the film’s hero Miles Morales.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T151713Z" creationid="sanch" creationdate="20230505T151550Z">
+        <seg>El director Daniel Pemberton explica lo complicado que es llevar la música de "Spider-Man: Hacia el Multiverso" desde la gran pantalla hasta Brooklyn, la cuna de la película del héroe Miles Morales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How did directors Phil Lord and Chris Miller convince Pemberton, who habitually avoids anything cookie-cutter, to come on board?&lt;/s9&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T162331Z" creationid="sanch" creationdate="20230505T162331Z">
+        <seg>¿Cómo el director Phil Lord y Chris Miller convencieron a Pemberton, quien habitualmente evita cualquier cosa del montón, para que se animara a hacer la película?&lt;/s9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indeed, before the film’s release, few outside the production suspected that &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;yet another goddamn Spider-Man movie, &lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;was going to be an artistically groundbreaking work of cinema that would delight critics and push the medium of animation to a new level.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230512T152438Z" creationid="sanch" creationdate="20230505T162108Z">
+        <seg>De hecho, antes de que se emitiera la película, algunos fuera de la producción sospechaban que&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;Spider-Verse &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;u otra maldita película de Spider-Man,&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;iba a ser una obra artisticamente revolcionaria en el cine y que fuera a deleitar críticas y propulsar la técnica de animación a un nuevo nivel. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matched together by Sony, which owns both the studio that produced &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; and a majority stake in Senbla, Pemberton and Rosenblatt conceived an ambitious touring concert series that would allow Pemberton to realize his music live on stage for the first time, and to push the boundaries of orchestral performance in the process.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
+        <seg>Unidos por Sony, propietaria del estudio que produjo &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; y de una participación mayoritaria en Senbla, Pemberton y Rosenblatt concibieron una ambiciosa serie de conciertos itinerantes que permitiría a Pemberton realizar su música en directo por primera vez y, de paso, ampliar los límites de la interpretación orquestal.&lt;/s3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pemberton’s first response was, he says, “There’s no way that’s going to be in the movie.” But assured that it would be, he was in.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230512T152917Z" creationid="sanch" creationdate="20230505T162958Z">
+        <seg>La primera respuesta de Pemberton fue, "De ninguna manera voy a participar en la película."Pero afirmó que sí que estará. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Music of ‘Spider-Man’ Makes A Live Leap From The Spider-Verse To Brooklyn</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T152922Z" creationid="sanch" creationdate="20230505T151441Z">
+        <seg>La música de "Spider-Man" realiza un gran salto desde el multiverso de Spiderman hasta Brooklyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This has made him one of the most interesting composers in the business, but also makes reproducing his work in a live concert environment mostly impractical.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T152434Z" creationid="sanch" creationdate="20230505T152434Z">
+        <seg>Esto le ha convertido en uno de los compositores más interesantes del mercado, pero también hace que la reproducción de su trabajo en un concierto en directo sea muy poco práctico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Though significantly simplified for performance by a traditional ensemble of winds and strings, it was enough to convince Pemberton that a concert of the &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Into the Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; score could be achieved, with all of the bells and literal whistles.&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T155014Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
+        <seg>Aunque significativamente simplificada para su interpretación por un conjunto tradicional de vientos y cuerdas, fue suficiente para convencer a Pemberton de que se podía lograr un concierto de la partitura de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Into the Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, con todas las campanas y silbatos.&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="es" changeid="sanch" changedate="20230512T143106Z" creationid="sanch" creationdate="20230512T143106Z">
-        <seg>en-US SUMARIO</seg>
+      <tuv lang="es" changeid="sanch" changedate="20230518T153939Z" creationid="sanch" creationdate="20230512T143106Z">
+        <seg>en-US </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I used to go to hip-hop clubs in London,” says Pemberton, “and the first time I saw people scratch it blew my mind.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
+        <seg>"Solía ir a clubes de hip-hop en Londres", dice Pemberton, "y la primera vez que vi a la gente hacer scratch me dejó alucinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I’d always sort of resigned myself to the fact that I was probably never going to be able to do live concerts.”</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T152822Z" creationid="sanch" creationdate="20230505T152822Z">
+        <seg>“Siempre me he resignado a creer en el hecho de que probablemete nunca pueda hacer conciertos en directo.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I’m always trying to do things that are unconventional and not based around traditional setups, and they’re always impossible to do live.” Pemberton explains via a Zoom call from his home in London.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230505T152635Z" creationid="sanch" creationdate="20230505T152635Z">
+        <seg>"Siempre estoy intentando hacer cosas poco convencionales y no basadas en ambientes tradicionales, y siempre son imposibles de hacerlas en directo". Explica Permberton en una videollamada desde su casa en Londres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“Now, you just accept it as part of the movie, but at the time, that was such a crazy idea, and that showed me that these guys really were going to push it.”</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230512T153108Z" creationid="sanch" creationdate="20230505T163220Z">
+        <seg>“Ahora, solo lo aceptas como parte de la película, pero en ese momento, era una locura, y eso fue lo que me indicó que esos chicos iban realmente a impulsarla ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“They showed me a picture of the pig,” says Pemberton, referring to Peter Porker, the Amazing Spider-Ham, a supporting character voiced by comedian John Mulaney whose design is a deliberate clash with the art style of the rest of the film.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230512T152808Z" creationid="sanch" creationdate="20230505T162810Z">
+        <seg>"Me enseñaron una foto del cerdo," dijo Pemberton, refiriéndose a Peter Cerde, el Amazing Spidr-Cerdo, un personaje de soporte doblado por el humorista John Mulaney cuyos diseño es un enfrentamiento intencionado con el estilo artístico del resto de la película.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
