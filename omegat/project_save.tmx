@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;/s3&gt; &lt;f4&gt;&lt;i5/&gt;&lt;n6&gt;&lt;i7/&gt;&lt;/n6&gt;&lt;f8&gt;Competing visions of the end of days on ‘The Last of Us’ (left) and ‘Station Eleven’ (right: David Wilmot and Caitlin McRill FitzGerald) &lt;s9&gt;Left: Courtesy of HBO; right: Ian Watson/HBO Max&lt;/s9&gt;&lt;/f8&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;/s3&gt; &lt;f4&gt;&lt;i5/&gt;&lt;n6&gt;&lt;i7/&gt;&lt;/n6&gt;&lt;f8&gt;Visiones enfrentadas del fin de los días en 'The Last of Us' (izquierda) y 'Station Eleven' (derecha: David Wilmot y Caitlin McRill FitzGerald) &lt;s9&gt;Izquierda: Cortesía de HBO; derecha: Ian Watson/HBO Max&lt;/s9&gt;&lt;/f8&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Station Eleven&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;, however, is not about those people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Station Eleven&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;, sin embargo, no trata de esa gente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Station Eleven&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt; is about the people who have inherited the ruins of a dead civilization and said, “What can we do to make this more bearable?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;La Estación Once&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt; trata de la gente que ha heredado las ruinas de una civilización muerta y ha dicho: "¿Qué podemos hacer para que esto sea más soportable?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt; Filed Under:&lt;/s0&gt; &lt;a1&gt;TV&lt;/a1&gt;, &lt;a2&gt;Entertainment&lt;/a2&gt;, &lt;a3&gt;Himesh Pate&lt;/a3&gt;, &lt;a4&gt;l Matilda Lawler&lt;/a4&gt;, &lt;a5&gt;Nabhaan Rizwan&lt;/a5&gt;, &lt;a6&gt;Lori Petty&lt;/a6&gt;, &lt;a7&gt;Daniel Zovatto&lt;/a7&gt;, &lt;a8&gt;Philippine Velge&lt;/a8&gt;, &lt;a9&gt;Bella Ramsey&lt;/a9&gt;, &lt;a10&gt;David Wilmot&lt;/a10&gt;, &lt;a11&gt;The Last of Us&lt;/a11&gt;, &lt;a12&gt;Station Eleven&lt;/a12&gt;, &lt;a13&gt;Mackenzie Davis&lt;/a13&gt;, &lt;a14&gt;Pedro Pascal&lt;/a14&gt;, &lt;a15&gt;HBO&lt;/a15&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T160832Z" creationid="Raquel" creationdate="20230518T160832Z">
+        <seg>&lt;s0&gt; Filed Under:&lt;/s0&gt; &lt;a1&gt;TV&lt;/a1&gt;, &lt;a2&gt;Entretenimiento&lt;/a2&gt;, &lt;a3&gt;Himesh Pate&lt;/a3&gt;, &lt;a4&gt;l Matilda Lawler&lt;/a4&gt;, &lt;a5&gt;Nabhaan Rizwan&lt;/a5&gt;, &lt;a6&gt;Lori Petty&lt;/a6&gt;, &lt;a7&gt;Daniel Zovatto&lt;/a7&gt;, &lt;a8&gt;Philippine Velge&lt;/a8&gt;, &lt;a9&gt;Bella Ramsey&lt;/a9&gt;, &lt;a10&gt;David Wilmot&lt;/a10&gt;, &lt;a11&gt;The Last of Us&lt;/a11&gt;, &lt;a12&gt;Estación Once&lt;/a12&gt;, &lt;a13&gt;Mackenzie Davis&lt;/a13&gt;, &lt;a14&gt;Pedro Pascal&lt;/a14&gt;, &lt;a15&gt;HBO&lt;/a15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;At events like this one, the usual rules of decorum around orchestral performance are, happily, rescinded.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
@@ -18,6 +58,38 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
         <seg>&lt;s0&gt;Entra Ollie Rosenblatt, de Senbla, una empresa con sede en Londres que produce proyecciones de películas en las que la banda sonora es interpretada por una orquesta en directo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Full spoilers ahead for &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, but only minor ones for &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Station Eleven.&lt;/s5&gt;&lt;/i4&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
+        <seg>&lt;s0&gt;Spoilers completos de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, pero pocos de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Station Eleven.&lt;/s5&gt;&lt;/i4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Is it an interesting story?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;s0&gt;¿Es una historia interesante?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Its story bounces back and forth through time, from before the nightmarish outbreak to 20 years after, centering on a handful of individuals whose lives have been touched by the same work of art, a surreal graphic novel with eerie narrative parallels to the actual end of the world.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;s0&gt;Su historia avanza y retrocede en el tiempo, desde antes del brote de pesadilla hasta 20 años después, centrándose en un puñado de individuos cuyas vidas se han visto afectadas por la misma obra de arte, una novela gráfica surrealista con inquietantes paralelismos narrativos con el verdadero fin del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;It’s no surprise that &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; has been &lt;/s3&gt;&lt;a4&gt;&lt;s5&gt;a colossal hit&lt;/s5&gt;&lt;/a4&gt;&lt;s6&gt; for HBO.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T152558Z" creationid="Raquel" creationdate="20230505T152558Z">
+        <seg>&lt;s0&gt;No nos sorprende que&lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; haya sido &lt;/s3&gt;&lt;a4&gt;&lt;s5&gt;un éxito colosal&lt;/s5&gt;&lt;/a4&gt;&lt;s6&gt; en HBO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +118,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Shocking as this ending might have been when players first encountered it in 2013, this dark development feels sadly typical for modern prestige television.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230512T152731Z" creationid="Raquel" creationdate="20230512T152731Z">
+        <seg>&lt;s0&gt;Este final habrá sido igual de impactante cuando los jugadores se toparon con él en 2013, este suceso sombrío es tristemente típico para la televisión de prestigio moderna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;The &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; score also incorporates a variety of unusual instruments: a set piece in which Spider-Men Miles and Peter raid a science lab has a keyboard part, meaning the clacking of a &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;computer&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; keyboard, and the motif for the villainous Kingpin Wilson Fisk is performed by a click-pen.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
         <seg>&lt;s0&gt;La partitura de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; también incorpora una variedad de instrumentos inusuales: una pieza en la que los Spider-Men Miles y Peter asaltan un laboratorio científico tiene una parte de teclado, es decir, el tintineo del teclado de un &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;ordenador&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, y el motivo del villano Kingpin Wilson Fisk se interpreta con un bolígrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;The season finale of &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; sees emotionally wounded father Joel (Pedro Pascal) choose the life of his surrogate daughter Ellie (Bella Ramsey) over the future of the human race, murdering an entire Firefly resistance cell that sought to harvest Ellie’s body to generate a cure for the cordyceps infection that has ravaged the planet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T161706Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
+        <seg>&lt;s0&gt;El final de temporada de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; muestra que el emocionalmente herido padre Joel (Pedro Pascal) elige la vida de su hija de alquiler Ellie (Bella Ramsey) por encima del futuro de la raza humana, asesinando a una célula completa de la resistencia Firefly que pretendía cosechar el cuerpo de Ellie para generar una cura para la infección cordyceps que ha asolado el planeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;This is what makes &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, which premiered in December 2021, such a rare and powerful work of television.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;s0&gt;Esto es lo que convierte a &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, estrenada en diciembre de 2021, en una obra televisiva tan rara y poderosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +174,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And, finally, Joel doubles down on this view of humanity by committing mass murder in order to protect his own interests over that of the entire species.&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230512T154304Z" creationid="Raquel" creationdate="20230512T154304Z">
+        <seg>Y, finalmente, Joel es retratado en esta visión de la humanidad cometiendo asesinato en masa con el objetivo de proteger sus intereses por encima del resto de las especies.&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As I wrote in my review of the series, as both a game and a series, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt; &lt;a3&gt;&lt;s4&gt;employs a common shortcut&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; to add a sense of maturity to a work of genre fiction: they’re unfailingly grim.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230512T153102Z" creationid="Raquel" creationdate="20230512T153102Z">
+        <seg>Tal como escribí en la reseña de la serie, tanto en el videojuego como en la serie &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt; &lt;a3&gt;&lt;s4&gt;utiliza un atajo común&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; para darle un significado maduro a este trabajo de ciencia ficción: infaliblemente sombrío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assured that he would be free to let loose his ambition, Pemberton composed a unique score that combined the expected orchestra with trap beats, scratching, and other hip hop and turntablist elements, weaving perfectly between or even through the film’s pop songtrack.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>Con la seguridad de que tendría libertad para dar rienda suelta a su ambición, Pemberton compuso una partitura única que combinaba la esperada orquesta con ritmos trap, scratching y otros elementos hip hop y turntablistas, entrelazándose perfectamente entre o incluso a través de la banda sonora pop de la película.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on a smash hit video game and a perfect fit for the network that made gritty adult genre television a sensation in the first place, &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;The Last of Us&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt; hits the &lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Game of Thrones&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt; sweet spot between mainstream and prestige television.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T153421Z" creationid="Raquel" creationdate="20230505T153421Z">
+        <seg>Se basa en un exitoso videojuego y se adecua perfectamente al sistema que ha causado sensación en el género de televisión adulto y crudo, &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;The Last of Us&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt; alcanza el alto puesto de&lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Game of Thrones&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt;que se situa entre lo popular y la televisión de prestigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But harsh reflections of the apocalypse aren’t a hard sell to an audience that has seen a thousand doomsdays on TV and may make the one unfolding now seem, well, not so bad by comparison.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Pero las duras reflexiones sobre el apocalipsis no son difíciles de vender a un público que ha visto miles de catástrofes en la televisión y pueden hacer que la que se está desarrollando ahora parezca, bueno, no tan mala en comparación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But it’s hardly a groundbreaking twist in the world of post-&lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Game of Thrones&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; TV, and in a world that feels increasingly doomed it’s worth asking what purpose it serves.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Pero no es un giro innovador en el mundo de la televisión posterior a &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Juego de Tronos&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, y en un mundo que parece cada vez más condenado, vale la pena preguntarse para qué sirve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But put aside its almost universal acclaim for a moment, because &lt;/s12&gt;&lt;i13&gt;&lt;s14&gt;The Last of Us&lt;/s14&gt;&lt;/i13&gt;&lt;s15&gt; is not HBO’s most interesting or daring post-apocalyptic drama.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T153713Z" creationid="Raquel" creationdate="20230505T153713Z">
+        <seg>Pero por un momento dejemos a un lado su aclamo casi universal, &lt;/s12&gt;&lt;i13&gt;&lt;s14&gt;The Last of Us&lt;/s14&gt;&lt;/i13&gt;&lt;s15&gt;no es el drama posapocalíptico más intrépido e interesante de HBO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But, ultimately, showrunner Patrick Somerville and company have a far braver statement to make: That even after everything we now have is gone forever, there will still be a future.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Pero, en última instancia, el showrunner Patrick Somerville y compañía tienen una declaración mucho más valiente que hacer: Que incluso después de que todo lo que ahora tenemos se haya ido para siempre, seguirá habiendo un futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +258,22 @@
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T153013Z" creationid="sanch" creationdate="20230505T151910Z">
         <seg>Daniel Pemberton nunca se había imaginado escuchar su música en directo en un concierto de orquesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does it feel true to the character?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>¿Es fiel al personaje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does it fly in the face of the classic Hollywood ending?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>¿Va en contra del clásico final de Hollywood?</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +334,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the bleak finale of 'The Last of Us' has left an empty space in your life, you may be ready for &lt;a0&gt;HBO&lt;/a0&gt;'s most daring post-apocalyptic drama, 'Station Eleven,' which has the courage to be optimistic.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T152148Z" creationid="Raquel" creationdate="20230505T152148Z">
+        <seg>Si el final desolador de "The Last of Us" ha dejado un hueco en tu vida, probablemente estés listo para el drama posapocalíptico más intrépido de &lt;a0&gt;HBO&lt;/a0&gt;, "Estación Once", que podría ser optimista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the absence of modern structure and convenience, humanity has become more animalistic, cruel, and territorial.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230512T153517Z" creationid="Raquel" creationdate="20230512T153517Z">
+        <seg>Con la ausencia de una estructura moderna y cómoda, la humanidad se ha vuelto brutal, cruel y territorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indeed, before the film’s release, few outside the production suspected that &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;yet another goddamn Spider-Man movie, &lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;was going to be an artistically groundbreaking work of cinema that would delight critics and push the medium of animation to a new level.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230512T152438Z" creationid="sanch" creationdate="20230505T162108Z">
@@ -182,10 +366,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It looks at the profound ways that acts of cruelty or kindness can reverberate across generations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Analiza las profundas formas en que los actos de crueldad o bondad pueden reverberar a través de las generaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was Pemberton who insisted that the concert tour, which is planned to hit cities around the US, UK, Europe, and Japan, should begin in Brooklyn, the home of the film’s hero Miles Morales.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
         <seg>Fue Pemberton quien insistió en que la gira de conciertos, que está previsto que recorra ciudades de Estados Unidos, Reino Unido, Europa y Japón, comenzara en Brooklyn, el hogar del héroe de la película, Miles Morales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its depictions of its global pandemic (shot mostly before the COVID-19 outbreak) may tug at still-healing wounds or recall recent memories of loss and despair.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Sus descripciones de la pandemia global (rodadas en su mayor parte antes del brote de COVID-19) pueden hurgar en heridas aún cicatrizadas o evocar recuerdos recientes de pérdida y desesperación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Less charitably, &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;The Last of Us&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; is yet another bleak representation of humanity’s selfish nature, the very thing that makes us unable to bind together to save our ecosystem before its impending collapse in the century ahead.&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230512T152509Z" creationid="Raquel" creationdate="20230512T152509Z">
+        <seg>Menos generosamente, &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;The Last of Us&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; es otra representación desoladora de la naturaleza egoísta de la humanidad, aquello que nos hace incapaces de unirnos para salvar nuestro ecosistema antes de su inminente colapso en el próximo siglo.&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Like &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;The Last of Us&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, it takes an extended look at an America decades after most of its people are dead and things like government, electricity, and the Internet are distant memories.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Al igual que &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;The Last of Us&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, echa un amplio vistazo a unos Estados Unidos décadas después de que la mayoría de sus habitantes hayan muerto y cosas como el gobierno, la electricidad e Internet sean recuerdos lejanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make no mistake, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; is not cozy viewing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>No nos equivoquemos, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; no es una serie agradable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +462,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rather than focusing on the way that humanity has been splintered by disease and destruction, the series is woven out of the human connections that cannot be broken, even by death.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>En lugar de centrarse en el modo en que la humanidad se ha visto dividida por la enfermedad y la destrucción, la serie se teje a partir de las conexiones humanas que no pueden romperse, ni siquiera con la muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right, it’s not the responsibility of fiction to model the best in humanity, and right, representation not only isn’t endorsement, it might be critique.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Cierto, no es responsabilidad de la ficción modelar lo mejor de la humanidad, y cierto, la representación no sólo no es apoyo, sino que podría ser crítica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>She’s willing to sacrifice herself to save the world, but Joel isn’t willing to live without her.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
+        <seg>Está dispuesta a sacrificarse para salvar el mundo, pero Joel no está dispuesto a vivir sin ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Station Eleven is currently available to stream on HBO Max.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Estación Once se puede ver actualmente en streaming en HBO Max.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That honor goes to last year’s underappreciated &lt;/s15&gt;&lt;i16&gt;&lt;s17&gt;Station Eleven&lt;/s17&gt;&lt;/i16&gt;&lt;s18&gt;, a series with a great deal of conceptual and thematic overlap with &lt;/s18&gt;&lt;i19&gt;&lt;s20&gt;The Last of Us&lt;/s20&gt;&lt;/i19&gt;&lt;s21&gt;, but one key distinction: While no less mature or complex, &lt;/s21&gt;&lt;i22&gt;&lt;s23&gt;Station Eleven&lt;/s23&gt;&lt;/i22&gt;&lt;s24&gt; has the courage to be humanist and optimistic, even when facing the end of days.&lt;/s24&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T154406Z" creationid="Raquel" creationdate="20230505T154406Z">
+        <seg>Nos referimos a la poco valorada, &lt;/s15&gt;&lt;i16&gt;&lt;s17&gt;Station Eleven&lt;/s17&gt;&lt;/i16&gt;&lt;s18&gt;, una serie con una historia genial de solapamiento conceptual y temático con &lt;/s18&gt;&lt;i19&gt;&lt;s20&gt;The Last of Us&lt;/s20&gt;&lt;/i19&gt;&lt;s21&gt;, pero con una diferencia clave: aunque no es más madura o compleja, &lt;/s21&gt;&lt;i22&gt;&lt;s23&gt;Station Eleven&lt;/s23&gt;&lt;/i22&gt;&lt;s24&gt; podría hasta ser humanista y optimista, a pesar de estar enfrentándose al final de sus días.&lt;/s24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Music of ‘Spider-Man’ Makes A Live Leap From The Spider-Verse To Brooklyn</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152922Z" creationid="sanch" creationdate="20230505T151441Z">
@@ -246,10 +510,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The miniseries, based on the novel by Emily St. John Mandel, centers around a deadly global pandemic and its aftermath.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>La miniserie, basada en la novela de Emily St. John Mandel, se centra en una pandemia mundial mortal y sus consecuencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The movie’s emotional climax in which the protagonist swallows his self-doubt and makes a daring leap from a Manhattan skyscraper — presented via an inverted camera as an ascent rather than a fall — has become an iconic moment recent cinema thanks in no small part to the interplay between Pemberton’s orchestrated themes and “What’s Up Danger” by rapper Blackway and producing duo Black Caviar.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>El emotivo clímax de la película, en el que el protagonista se traga sus dudas y realiza un arriesgado salto desde un rascacielos de Manhattan -presentado a través de una cámara invertida como un ascenso en lugar de una caída- se ha convertido en un momento icónico del cine reciente gracias en gran medida a la interacción entre los temas orquestados de Pemberton y "What's Up Danger" del rapero Blackway y el dúo de productores Black Caviar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sunniest reading of this twist ending is that it’s unconscionable to sacrifice one innocent life regardless of how many other lives it might save, or perhaps that the bond of this found family is as worthy of preservation as civilization itself.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
+        <seg>La lectura más solemne de este giro final es que es inconcebible sacrificar una vida inocente independientemente de cuántas otras vidas pueda salvar, o quizá que el vínculo de esta familia encontrada es tan digno de preservación como la civilización misma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are a few plot twists as grim as anything seen on this season of &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;The Last of Us&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Hay algunos giros argumentales tan sombríos como cualquier cosa vista en esta temporada de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;The Last of Us&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are bands of marauders and creepy, violent cults out on the road, stealing and murdering to their hearts’ content.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Hay bandas de merodeadores y sectas espeluznantes y violentas en la carretera, robando y asesinando hasta hartarse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +574,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Though Ellie is never directly asked to consent to this operation, she has previously expressed a willingness to do whatever it takes to bring an end to the fungal holocaust into which she was born.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T161806Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
+        <seg>Aunque a Ellie nunca se le pidió directamente que diera su consentimiento a esta operación, ya expresó anteriormente su voluntad de hacer lo que sea necesario para poner fin al holocausto fúngico en el que nació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Though significantly simplified for performance by a traditional ensemble of winds and strings, it was enough to convince Pemberton that a concert of the &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Into the Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; score could be achieved, with all of the bells and literal whistles.&lt;/s6&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T155014Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
         <seg>Aunque significativamente simplificada para su interpretación por un conjunto tradicional de vientos y cuerdas, fue suficiente para convencer a Pemberton de que se podía lograr un concierto de la partitura de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Into the Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, con todas las campanas y silbatos.&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Throughout the season, Joel and Ellie are no better, rarely hesitating to blast holes in anyone they encounter (even when they themselves are the trespassers).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230512T153843Z" creationid="Raquel" creationdate="20230512T153843Z">
+        <seg>A lo largo de la temporada, Joel y Ellie tampoco son mejores personas, sin dudar apenas si poner minas antipersona a las personas con las que se encontraban (aunque ellos fueran los intrusos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, dozens of soldiers, the surgeon who was supposed to perform the procedure, and countless others had to die in order to keep Joel’s heart from breaking a second time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
+        <seg>Así, docenas de soldados, el cirujano que debía realizar el procedimiento e innumerables personas más tienen que morir para evitar que el corazón de Joel se rompa por segunda vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Top: Pedro Pascal and Bella Ramsey in ‘The Last of Us’; bottom: Mackenzie Davis and Caitlin McRill FitzGerald in ‘Station Eleven.” &lt;s0&gt;Liane Hentscher/HBO (top); Ian Watson/HBO Max (bottom)&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T152421Z" creationid="Raquel" creationdate="20230505T152421Z">
+        <seg>Arriba: Pedro Pascal y Bella Ramsey en "The Last of Us"; abajo: Mackenzie Davis y Caitlin McRill FitzGerald en "Estación Once” &lt;s0&gt;Liane Hentscher/HBO (arriba); Ian Watson/HBO Max (abajo)&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What comes after the end of the world?”&lt;/s12&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>¿Qué viene después del fin del mundo?"&lt;/s12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When asked if he would be conducting the concert, Pemberton replied, frankly, “There’s nothing worse than a film composer pretending to conduct.”&lt;/s6&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
@@ -302,10 +638,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With the exception of the Jackson commune seen in Episode 6, every group of human survivors that Joel and Ellie encounter is some sort of hell, whether it be a fascist military dictatorship, an equally tarnished post-revolutionary state, or a reactionary religious cult.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230512T153358Z" creationid="Raquel" creationdate="20230512T153358Z">
+        <seg>A excepción de la comunidad de Jackson en el Episodio 6, todos los grupos de supervivientes humanos con los que Joel y Ellie se topaban eran un infierno, o bien eran una dictadura militar y fascista, un estado posrevolucionario igual de dañado o bien una secta conservadora y religiosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes to all.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Sí a todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You Loved ‘The Last of Us.’ Now Watch ‘Station Eleven.’</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230505T151613Z" creationid="Raquel" creationdate="20230505T142316Z">
+        <seg>Te encantó "The Last of Us". Ahora tienes que ver "Estación Once".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230518T153939Z" creationid="sanch" creationdate="20230512T143106Z">
         <seg>en-US </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://observer.com/wp-content/uploads/sites/2/2023/03/FotoJet-1.jpg?quality=80&amp;w=970&amp;strip</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>https://observer.com/wp-content/uploads/sites/2/2023/03/FotoJet-1.jpg?quality=80&amp;w=970&amp;strip</seg>
       </tuv>
     </tu>
     <tu>
