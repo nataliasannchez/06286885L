@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Yeah, definitely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T164451Z" creationid="diegodiaz" creationdate="20230518T164451Z">
+        <seg>&lt;s0&gt;Sí, desde luego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;“I’m hoping, in the audience, there will be people who have never seen a scratch DJ before, or people who have never seen an orchestra before and &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;have&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; seen scratch DJs.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230505T153421Z" creationid="Raquel" creationdate="20230505T153421Z">
         <seg>Se basa en un exitoso videojuego y se adecua perfectamente al sistema que ha causado sensación en el género de televisión adulto y crudo, &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;The Last of Us&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt; alcanza el alto puesto de&lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Game of Thrones&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt;que se situa entre lo popular y la televisión de prestigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But I was very aware that this is exactly where it was all headed from very early on in the season one filming.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T164527Z" creationid="diegodiaz" creationdate="20230518T164527Z">
+        <seg>Pero desde el principio del rodaje de la primera temporada fui muy consciente de que todo iba a acabar así.</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +674,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
         <seg>Es un testimonio de lo bien que estos artistas trabajan juntos que la estrella original de &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Scream &lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;Neve Campbell no se pierde, y que las apariciones de Courteney Cox en el la película no se siente tan necesaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It’s all in the writing—I can’t really take credit for that.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T164504Z" creationid="diegodiaz" creationdate="20230518T164504Z">
+        <seg>Todo está en el guión, no puedo atribuirme el mérito.</seg>
       </tuv>
     </tu>
     <tu>
