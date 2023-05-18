@@ -62,6 +62,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;All the Beauty and the Bloodshed &lt;/e0&gt;follows the recent work of photographer and activist Nan Goldin, who set out to hold Purdue Pharma and the Sackler family accountable for their role in the opioid epidemic.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174709Z" creationid="Raquel" creationdate="20230518T174709Z">
+        <seg>&lt;e0&gt;La belleza y el dolor&lt;/e0&gt; sigue el reciente trabajo de la fotógrafa y activista Nan Goldin, que se propuso responsabilizar a Purdue Pharma y a la familia Sackler por su papel en la epidemia de opioides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Extrapolations &lt;/e0&gt;looks several decades into the future to tell various different stories about the effects of climate change on our modern world and our modern lives.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174843Z" creationid="Raquel" creationdate="20230518T174843Z">
+        <seg>&lt;e0&gt;Un futuro desafiante&lt;/e0&gt; se adentra varias décadas en el futuro para contar distintas historias sobre los efectos del cambio climático en nuestro mundo y nuestras vidas modernas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e1&gt;&lt;a2&gt;All the Beauty and the Bloodshed&lt;/a2&gt; &lt;/e1&gt;premieres on streaming Sunday, March 19&lt;s3&gt;th&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174727Z" creationid="Raquel" creationdate="20230518T174727Z">
+        <seg>&lt;e1&gt;&lt;a2&gt;La belleza y el dolor&lt;/a2&gt; &lt;/e1&gt;se estrena en streaming el domingo 19 de marzo&lt;s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e1&gt;&lt;a2&gt;Extrapolations&lt;/a2&gt; &lt;/e1&gt;premieres Friday, March 17&lt;s3&gt;th&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174953Z" creationid="Raquel" creationdate="20230518T174953Z">
+        <seg>&lt;e1&gt;&lt;a2&gt;Un futuro desafiante&lt;/a2&gt; &lt;/e1&gt;se estrena el viernes 17 de marzo&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e1&gt;&lt;a2&gt;Swarm&lt;/a2&gt; &lt;/e1&gt;premieres Friday, March 17&lt;s3&gt;th&lt;/s3&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T174533Z" creationid="Raquel" creationdate="20230518T174533Z">
@@ -498,6 +530,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
         <seg>Desde entonces, siempre quise hacer una partitura en la que grabara la orquesta y luego la volviera a rascar."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrapolations</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174826Z" creationid="Raquel" creationdate="20230518T174826Z">
+        <seg>Un futuro desafiante</seg>
       </tuv>
     </tu>
     <tu>
@@ -1163,6 +1203,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>¿Qué viene después del fin del mundo?"&lt;/s12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to watch on Apple TV+</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174738Z" creationid="Raquel" creationdate="20230518T174738Z">
+        <seg>Qué ver en el Apple TV+</seg>
       </tuv>
     </tu>
     <tu>
