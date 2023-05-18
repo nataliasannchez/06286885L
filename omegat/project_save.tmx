@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;The real key to the tension is, of course, the characters, and &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; has never had a more lovable cast for audiences to fret over.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
-        <seg>&lt;s0&gt;La verdadera clave de la tensión son, por supuesto, los personajes, y &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; nunca ha tenido un elenco más adorable para el público. preocuparse por.</seg>
+      <tuv lang="es" changeid="sanch" changedate="20230518T163518Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>&lt;s0&gt;La verdadera clave de la tensión son, por supuesto, los personajes, y &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; nunca ha tenido un elenco más adorable para el público se preocupe.</seg>
       </tuv>
     </tu>
     <tu>
