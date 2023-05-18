@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -498,6 +498,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
         <seg>Para el estreno mundial de la gira, que tendrá lugar en el King's Theatre de Brooklyn el viernes 17 de marzo, Pemberton espera tocar él mismo estos papeles, además del piano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From an animated Elvis to a charged take on the BeyHive, this week is full of fascinating new genre forays.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T173628Z" creationid="Raquel" creationdate="20230518T173628Z">
+        <seg>Desde un Elvis animado hasta una cargada versión de BeyHive, esta semana está repleta de fascinantes incursiones en nuevos géneros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>¿Qué viene después del fin del mundo?"&lt;/s12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to watch on Netflix</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T173720Z" creationid="Raquel" creationdate="20230518T173720Z">
+        <seg>Qué ver en Netflix</seg>
       </tuv>
     </tu>
     <tu>
