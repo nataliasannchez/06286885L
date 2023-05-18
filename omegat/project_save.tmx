@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;a1&gt;What to Watch&lt;/a1&gt; &lt;/e0&gt;is a regular endorsement of movies and TV worth your streaming time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;Qué Ver&lt;/a1&gt; &lt;/e0&gt;es un habitual aval de películas y TV que merecen tu tiempo en streaming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;All the Beauty and the Bloodshed &lt;/e0&gt;follows the recent work of photographer and activist Nan Goldin, who set out to hold Purdue Pharma and the Sackler family accountable for their role in the opioid epidemic.</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T174709Z" creationid="Raquel" creationdate="20230518T174709Z">
@@ -86,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e1&gt;&lt;a2&gt;Boston Strangler&lt;/a2&gt; &lt;/e1&gt;premieres Friday, March 17&lt;s3&gt;th&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>&lt;e1&gt;&lt;a2&gt;El estrangulador de Boston&lt;/a2&gt; &lt;/e1&gt;se estrena el viernes 17 de marzo&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e1&gt;&lt;a2&gt;Carol&lt;/a2&gt; &lt;/e1&gt;streams starting Monday, March 20&lt;s3&gt;th&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>&lt;e1&gt;&lt;a2&gt;Carol&lt;/a2&gt; &lt;/e1&gt;se emite a partir del lunes 20 de marzo&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e1&gt;&lt;a2&gt;Extrapolations&lt;/a2&gt; &lt;/e1&gt;premieres Friday, March 17&lt;s3&gt;th&lt;/s3&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T174953Z" creationid="Raquel" creationdate="20230518T174953Z">
@@ -98,6 +122,14 @@
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T174533Z" creationid="Raquel" creationdate="20230518T174533Z">
         <seg>&lt;e1&gt;&lt;a2&gt;Enjambre&lt;/a2&gt; &lt;/e1&gt;se estrena el viernes 17 de marzo&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e3&gt;&lt;a4&gt;Agent Elvis&lt;/a4&gt; &lt;/e3&gt;premieres Friday, March 17&lt;s5&gt;th&lt;/s5&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>&lt;e3&gt;&lt;a4&gt;Agente Elvis&lt;/a4&gt; &lt;/e3&gt;se estrena el viernes 17 de marzo&lt;/s5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +200,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Full spoilers ahead for &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, but only minor ones for &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Station Eleven.&lt;/s5&gt;&lt;/i4&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
-        <seg>&lt;s0&gt;Spoilers completos de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, pero pocos de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Station Eleven.&lt;/s5&gt;&lt;/i4&gt;</seg>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T175548Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
+        <seg>&lt;s0&gt;Spoilers completos de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, pero pocos de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Estación Once.&lt;/s5&gt;&lt;/i4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s1&gt;HULU Photo courtesy of 20th Century Studios.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>&lt;s1&gt;Foto de HULU cortesía de 20th Century Studios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s5&gt;Directed by:&lt;/s5&gt; &lt;s6&gt;Matt Bettinelli-Olpin, Tyler Gillett&lt;/s6&gt;&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
@@ -338,6 +378,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
         <seg>Una secuencia ambientada en un metro abarrotado en la noche de Halloween es fácilmente una de las más escalofriantes en la historia de la franquicia.&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Agent Elvis</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Agente Elvis</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As Dre gets more and more involved in the star’s obsessive fandom, things begin to take a dark turn.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>A medida que Dre se involucra más y más en el obsesivo fandom de la estrella, las cosas empiezan a tomar un giro oscuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As I wrote in my review of the series, as both a game and a series, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt; &lt;a3&gt;&lt;s4&gt;employs a common shortcut&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; to add a sense of maturity to a work of genre fiction: they’re unfailingly grim.</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230512T153102Z" creationid="Raquel" creationdate="20230512T153102Z">
@@ -394,6 +450,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>Con la seguridad de que tendría libertad para dar rienda suelta a su ambición, Pemberton compuso una partitura única que combinaba la esperada orquesta con ritmos trap, scratching y otros elementos hip hop y turntablistas, entrelazándose perfectamente entre o incluso a través de la banda sonora pop de la película.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Awards season may now be officially over, but it’s never a bad time to watch one of Cate Blanchett’s all time great performances.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Puede que la temporada de premios haya terminado oficialmente, pero nunca es mal momento para ver una de las grandes interpretaciones de Cate Blanchett.</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carol</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Carol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carrie Coon plays her fellow female journalist in arms, and together they work to unmask the identity of the strangler — and the bed of complicity and corruption that allowed him to do so much damage.</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T174055Z" creationid="Raquel" creationdate="20230518T174055Z">
@@ -518,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Discouraged by her male co-workers and threatened by the killer’s penchant for targeting women, she faces dangers to her career as well as her life.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Desalentada por sus compañeros de trabajo y amenazada por la afición del asesino a atacar a las mujeres, se enfrenta a peligros para su carrera y su vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does it feel true to the character?</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -530,6 +610,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>¿Va en contra del clásico final de Hollywood?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elvis meets &lt;e0&gt;Archer &lt;/e0&gt;in this new adult animated comedy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Elvis conoce a &lt;e0&gt;Archer &lt;/e0&gt;en esta nueva comedia de animación para adultos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +682,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
         <seg>Para el estreno mundial de la gira, que tendrá lugar en el King's Theatre de Brooklyn el viernes 17 de marzo, Pemberton espera tocar él mismo estos papeles, además del piano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Former BFFs, bullies, and good girls must band together to survive with their rapidly dwindling resources, but some get a bit too drunk on the power of reliving their high school days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Las antiguas mejores amigas, las matonas y las chicas buenas deben unirse para sobrevivir con sus recursos cada vez más escasos, pero algunas se emborrachan demasiado con el poder de revivir sus días de instituto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +830,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the early 1950s, a soon-to-be-divorced Carol Aird catches the eye and the heart of Therese (Rooney Mara), a naïve photographer who has really considered her real desires.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>A principios de los años 50, una Carol Aird a punto de divorciarse atrae la mirada y el corazón de Therese (Rooney Mara), una ingenua fotógrafa que realmente ha considerado sus verdaderos deseos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Including a new series from Donald Glover, one of Cate Blanchett's best performances, and a new Keira Knightley period piece.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Incluye una nueva serie de Donald Glover, una de las mejores interpretaciones de Cate Blanchett y una nueva obra de época de Keira Knightley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indeed, before the film’s release, few outside the production suspected that &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;yet another goddamn Spider-Man movie, &lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;was going to be an artistically groundbreaking work of cinema that would delight critics and push the medium of animation to a new level.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230512T152438Z" creationid="sanch" creationdate="20230505T162108Z">
@@ -742,10 +854,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, &lt;e1&gt;Agent Elvis &lt;/e1&gt;sees the singer join a top-secret spy organization, working against dastardly villains dead-set on world domination.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>En su lugar, &lt;e1&gt;Agente Elvis &lt;/e1&gt;el cantante se une a una organización de espionaje de alto secreto, trabajando contra villanos temibles decididos a dominar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, Pemberton and DJ Blakey, a well-heeled London turntablist, employed modern Serato DJ software to virtually spin and scratch the uncompressed orchestral recording.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>En su lugar, Pemberton y DJ Blakey, un adinerado tornamesista londinense, emplearon el moderno software Serato DJ para hacer girar y rascar virtualmente la grabación orquestal sin comprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It combines her struggles with addiction and her undying passion for her cause as she helps stage major protests at some of the world’s biggest artistic landmarks.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Combina sus luchas contra la adicción y su pasión inquebrantable por su causa mientras ayuda a organizar grandes protestas en algunos de los mayores hitos artísticos del mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +914,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>Sus descripciones de la pandemia global (rodadas en su mayor parte antes del brote de COVID-19) pueden hurgar en heridas aún cicatrizadas o evocar recuerdos recientes de pérdida y desesperación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It’s a silly take on an American icon and a delightfully novel dip into new genres for &lt;a2&gt;Netflix&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Es una versión absurda de un icono americano y una deliciosa y novedosa incursión en nuevos géneros para &lt;a2&gt;Netflix&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -831,6 +967,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Knightley plays Loretta McLaughlin, the journalist who broke the story of the Boston Strangler.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Knightley interpreta a Loretta McLaughlin, la periodista que dio a conocer la historia del Estrangulador de Boston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Less charitably, &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;The Last of Us&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; is yet another bleak representation of humanity’s selfish nature, the very thing that makes us unable to bind together to save our ecosystem before its impending collapse in the century ahead.&lt;/s6&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230512T152509Z" creationid="Raquel" creationdate="20230512T152509Z">
@@ -867,6 +1011,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
         <seg>Unidos por Sony, propietaria del estudio que produjo &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; y de una participación mayoritaria en Senbla, Pemberton y Rosenblatt concibieron una ambiciosa serie de conciertos itinerantes que permitiría a Pemberton realizar su música en directo por primera vez y, de paso, ampliar los límites de la interpretación orquestal.&lt;/s3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matthew McConaughey voices The King, but it’s hardly a role that demands Austin Butler-level realism.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Matthew McConaughey pone voz al Rey, pero no es un papel que exija un realismo al nivel de Austin Butler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -951,6 +1103,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plus, its cast is nothing to scoff at: Kaitlin Olson, Don Cheadle, Johnny Knoxville, and Niecy Nash join McConaughey as fellow agents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Además, su reparto no es nada despreciable: Kaitlin Olson, Don Cheadle, Johnny Knoxville y Niecy Nash se unen a McConaughey como agentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rather than focusing on the way that humanity has been splintered by disease and destruction, the series is woven out of the human connections that cannot be broken, even by death.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -975,6 +1135,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>She stars as the eponymous &lt;e0&gt;Carol &lt;/e0&gt;in Todd Haynes’ sumptuous period romance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>La actriz interpreta a la homónima &lt;e0&gt;Carol &lt;/e0&gt;en el suntuoso romance de época de Todd Haynes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>She’s willing to sacrifice herself to save the world, but Joel isn’t willing to live without her.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
@@ -987,6 +1155,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230518T163557Z" creationid="diegodiaz" creationdate="20230518T163557Z">
         <seg>Así que en términos de bueno a malo, es bastante complicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some people have to escape the impending doom of the climate catastrophe, while others are happy to profit off of the chaos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Algunas personas tienen que escapar de la inminente fatalidad de la catástrofe climática, mientras que otras se alegran de sacar provecho del caos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1007,10 +1183,26 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stunningly shot and intoxicatingly acted, it’s like a film out of another era — but one that’s certainly passed the test of time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Impresionantemente rodada y embriagadoramente interpretada, es como una película salida de otra época, pero que sin duda ha superado la prueba del tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swarm</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Enjambre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That honor goes to last year’s underappreciated &lt;/s15&gt;&lt;i16&gt;&lt;s17&gt;Station Eleven&lt;/s17&gt;&lt;/i16&gt;&lt;s18&gt;, a series with a great deal of conceptual and thematic overlap with &lt;/s18&gt;&lt;i19&gt;&lt;s20&gt;The Last of Us&lt;/s20&gt;&lt;/i19&gt;&lt;s21&gt;, but one key distinction: While no less mature or complex, &lt;/s21&gt;&lt;i22&gt;&lt;s23&gt;Station Eleven&lt;/s23&gt;&lt;/i22&gt;&lt;s24&gt; has the courage to be humanist and optimistic, even when facing the end of days.&lt;/s24&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Raquel" changedate="20230505T154406Z" creationid="Raquel" creationdate="20230505T154406Z">
-        <seg>Nos referimos a la poco valorada, &lt;/s15&gt;&lt;i16&gt;&lt;s17&gt;Station Eleven&lt;/s17&gt;&lt;/i16&gt;&lt;s18&gt;, una serie con una historia genial de solapamiento conceptual y temático con &lt;/s18&gt;&lt;i19&gt;&lt;s20&gt;The Last of Us&lt;/s20&gt;&lt;/i19&gt;&lt;s21&gt;, pero con una diferencia clave: aunque no es más madura o compleja, &lt;/s21&gt;&lt;i22&gt;&lt;s23&gt;Station Eleven&lt;/s23&gt;&lt;/i22&gt;&lt;s24&gt; podría hasta ser humanista y optimista, a pesar de estar enfrentándose al final de sus días.&lt;/s24&gt;</seg>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T175424Z" creationid="Raquel" creationdate="20230505T154406Z">
+        <seg>Nos referimos a la poco valorada, &lt;/s15&gt;&lt;i16&gt;&lt;s17&gt;Estación Once&lt;/s17&gt;&lt;/i16&gt;&lt;s18&gt;, una serie con una historia genial de solapamiento conceptual y temático con &lt;/s18&gt;&lt;i19&gt;&lt;s20&gt;The Last of Us&lt;/s20&gt;&lt;/i19&gt;&lt;s21&gt;, pero con una diferencia clave: aunque no es más madura o compleja, &lt;/s21&gt;&lt;i22&gt;&lt;s23&gt;Estación Once&lt;/s23&gt;&lt;/i22&gt;&lt;s24&gt; podría hasta ser humanista y optimista, a pesar de estar enfrentándose al final de sus días.&lt;/s24&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1063,10 +1255,26 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sprawling ensemble cast includes Meryl Streep, Kit Harrington, Sienna Miller, Daveed Diggs, Gemma Chan, Edward Norton, and David Schwimmer, among many, many others.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>El extenso reparto incluye a Meryl Streep, Kit Harrington, Sienna Miller, Daveed Diggs, Gemma Chan, Edward Norton y David Schwimmer, entre muchos otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The sunniest reading of this twist ending is that it’s unconscionable to sacrifice one innocent life regardless of how many other lives it might save, or perhaps that the bond of this found family is as worthy of preservation as civilization itself.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
         <seg>La lectura más solemne de este giro final es que es inconcebible sacrificar una vida inocente independientemente de cuántas otras vidas pueda salvar, o quizá que el vínculo de esta familia encontrada es tan digno de preservación como la civilización misma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The superfan is willing to go to extreme lengths to protect her idol’s best interest, even if that means she has to cut a few people down along the way.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>La superfan está dispuesta a llegar a extremos para proteger los intereses de su ídolo, incluso si eso significa que tiene que acabar con algunas personas por el camino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1111,10 +1319,34 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This documentary may not have won the Oscar this past weekend, but don’t let that stop your from watching this powerful piece of film.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Puede que este documental no haya ganado el Oscar este pasado fin de semana, pero no dejes que eso te impida ver esta poderosa pieza cinematográfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This has made him one of the most interesting composers in the business, but also makes reproducing his work in a live concert environment mostly impractical.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152434Z" creationid="sanch" creationdate="20230505T152434Z">
         <seg>Esto le ha convertido en uno de los compositores más interesantes del mercado, pero también hace que la reproducción de su trabajo en un concierto en directo sea muy poco práctico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This new anthology series boasts some big names and even bigger existential problems.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Esta nueva serie antológica cuenta con grandes nombres y problemas existenciales aún mayores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This new series centers on the ten-year reunion of an all-girls high school, but with a genre twist: an apocalyptic event leaves the women — and all of their unresolved teenaged tension — marooned in their old school.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Esta nueva serie se centra en la reunión de diez años de un instituto femenino, pero con un toque de género: un acontecimiento apocalíptico deja a las mujeres -y a todas sus tensiones adolescentes no resueltas- abandonadas en su antiguo instituto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1155,6 +1387,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T155014Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
         <seg>Aunque significativamente simplificada para su interpretación por un conjunto tradicional de vientos y cuerdas, fue suficiente para convencer a Pemberton de que se podía lograr un concierto de la partitura de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Into the Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, con todas las campanas y silbatos.&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Though the tales may start out as separate, they are all interconnected as we are with our planet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Aunque las historias empiezan separadas, todas están interconectadas, como lo estamos nosotros con nuestro planeta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1215,6 +1455,22 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What to Watch on Streaming This Week: March 17-23</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Qué ver en streaming esta semana: Del 17 al 23 de marzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to watch on Amazon Prime</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Qué ver en Amazon Prime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What to watch on Apple TV+</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T174738Z" creationid="Raquel" creationdate="20230518T174738Z">
@@ -1227,6 +1483,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T174548Z" creationid="Raquel" creationdate="20230518T174548Z">
         <seg>Qué ver en HBO Max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to watch on Hulu</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>Qué ver en Hulu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1311,6 +1575,22 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://observer.com/2023/03/air-review-ben-afflecks-overeager-love-song-to-nike-succeeds-more-than-it-doesnt/</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>https://observer.com/2023/03/air-review-ben-afflecks-overeager-love-song-to-nike-succeeds-more-than-it-doesnt/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://observer.com/2023/03/yellowjackets-s2-review-still-satisfying-delicious-and-occasionally-nausea-inducing/</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>https://observer.com/2023/03/yellowjackets-s2-review-still-satisfying-delicious-and-occasionally-nausea-inducing/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://observer.com/wp-content/uploads/sites/2/2023/03/FotoJet-1.jpg?quality=80&amp;w=970&amp;strip</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -1319,10 +1599,34 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.amazon.com/gp/video/detail/B0B8NH5KFL/ref=atv_dp_share_cu_r?tag=obsrr-20</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>https://www.amazon.com/gp/video/detail/B0B8NH5KFL/ref=atv_dp_share_cu_r?tag=obsrr-20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.hbo.com/movies/all-the-beauty-and-the-bloodshed</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>https://www.hbo.com/movies/all-the-beauty-and-the-bloodshed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.hulu.com/movie/boston-strangler-323eae40-5c62-4765-949a-5b4f7f8f2ba4</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T173936Z" creationid="Raquel" creationdate="20230518T173936Z">
         <seg>https://www.hulu.com/movie/boston-strangler-323eae40-5c62-4765-949a-5b4f7f8f2ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>© 2022 20th Century Studios.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
+        <seg>© 2022 20th Century Studios.</seg>
       </tuv>
     </tu>
     <tu>
