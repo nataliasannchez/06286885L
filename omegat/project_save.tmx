@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e1&gt;&lt;a2&gt;Swarm&lt;/a2&gt; &lt;/e1&gt;premieres Friday, March 17&lt;s3&gt;th&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174533Z" creationid="Raquel" creationdate="20230518T174533Z">
+        <seg>&lt;e1&gt;&lt;a2&gt;Enjambre&lt;/a2&gt; &lt;/e1&gt;se estrena el viernes 17 de marzo&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e3&gt;&lt;a4&gt;Class of ’07&lt;/a4&gt; &lt;/e3&gt;premieres Friday, March 17&lt;s5&gt;th&lt;/s5&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174428Z" creationid="Raquel" creationdate="20230518T174428Z">
+        <seg>&lt;e3&gt;&lt;a4&gt;Curso del 2007&lt;/a4&gt; &lt;/e3&gt;se estrena el viernes 17 de marzo&lt;/s5&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i0&gt;&lt;s1&gt;Scream VI&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt; picks up with the survivors from the previous film attempting to start a new life in New York City, a far cry from the suburban California setting of the rest of the series.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230518T163244Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
@@ -290,6 +306,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
         <seg>Todo lo que cualquier persona necesita para convertirse en Ghostface es decidir hacerlo, y todo lo que necesita para salirse con la suya es que todos a su alrededor sigan ocupándose de sus asuntos, como suelen hacer los neoyorquinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the Beauty and the Bloodshed</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174643Z" creationid="Raquel" creationdate="20230518T174643Z">
+        <seg>La belleza y el dolor</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hot off the press from this year’s South by Southwest Film Festival comes &lt;e0&gt;Swarm&lt;/e0&gt;, a buzzy new thriller series from Donald Glover.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174450Z" creationid="Raquel" creationdate="20230518T174450Z">
+        <seg>Recién estrenada en el Festival de Cine South by Southwest de este año, llega &lt;e0&gt;Enjambre&lt;/e0&gt;, una nueva serie de suspense de Donald Glover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How did directors Phil Lord and Chris Miller convince Pemberton, who habitually avoids anything cookie-cutter, to come on board?&lt;/s9&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T162331Z" creationid="sanch" creationdate="20230505T162331Z">
@@ -640,8 +672,8 @@
       <tuv lang="en">
         <seg>If you’re into &lt;a0&gt;&lt;e1&gt;Yellowjackets &lt;/e1&gt;&lt;/a0&gt;but wished it had a little more comedy and a little less cannibalism, then &lt;e2&gt;Class of ’07 &lt;/e2&gt;is perfect for you.</seg>
       </tuv>
-      <tuv lang="es" changeid="Raquel" changedate="20230518T174326Z" creationid="Raquel" creationdate="20230518T174326Z">
-        <seg>Si te gusta &lt;a0&gt;&lt;e1&gt;Yellowjackets &lt;/e1&gt;&lt;/a0&gt;pero desearías que tuviera un poco más de comedia y un poco menos de canibalismo, entonces &lt;e2&gt;Curso del 2007 &lt;/e2&gt;es perfecta para ti</seg>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174338Z" creationid="Raquel" creationdate="20230518T174326Z">
+        <seg>Si te gusta &lt;a0&gt;&lt;e1&gt;Yellowjackets &lt;/e1&gt;&lt;/a0&gt;pero desearías que tuviera un poco más de comedia y un poco menos de canibalismo, entonces &lt;e2&gt;Curso del 2007 &lt;/e2&gt;es perfecta para ti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -975,6 +1007,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The show revolves around Dre, a young woman who grows a bit too attached to her favorite popstar, an icon who mirrors the oft-untouchable Beyoncé.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174523Z" creationid="Raquel" creationdate="20230518T174523Z">
+        <seg>La serie gira en torno a Dre, una joven que se encariña demasiado con su estrella del pop favorita, un icono que refleja a la, a menudo intocable, Beyoncé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The sunniest reading of this twist ending is that it’s unconscionable to sacrifice one innocent life regardless of how many other lives it might save, or perhaps that the bond of this found family is as worthy of preservation as civilization itself.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T161401Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
@@ -1123,6 +1163,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>¿Qué viene después del fin del mundo?"&lt;/s12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to watch on HBO Max</seg>
+      </tuv>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T174548Z" creationid="Raquel" creationdate="20230518T174548Z">
+        <seg>Qué ver en HBO Max</seg>
       </tuv>
     </tu>
     <tu>
