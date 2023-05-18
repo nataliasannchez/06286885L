@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And even though Nate often presents as a villain and his actions were, for some, unforgivable, he’s still that insecure man who we saw were introduced to at the start of season one.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163713Z" creationid="diegodiaz" creationdate="20230518T163713Z">
+        <seg>Y aunque Nate a menudo se presenta como malvado y sus acciones fueron imperdonables para los demás, sigue siendo la persona insegura que conocimos al comienzo de la primera temporada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And, finally, Joel doubles down on this view of humanity by committing mass murder in order to protect his own interests over that of the entire species.&lt;/s5&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230512T154304Z" creationid="Raquel" creationdate="20230512T154304Z">
@@ -510,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He’s riddled with insecurities.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163811Z" creationid="diegodiaz" creationdate="20230518T163811Z">
+        <seg>Está lleno de inseguiridades .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He’s still new to West Ham.</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230518T163207Z" creationid="diegodiaz" creationdate="20230518T163207Z">
@@ -538,6 +554,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
         <seg>Quiero que este concierto reúna todos estos mundos diferentes y cree algo nuevo y fresco que, espero, emocione a la gente y le dé ganas de hacer cosas."&lt;/s3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If anything, all those things, like the mild celebrity status and social media interaction, all they’re doing is increasing his downfall.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163938Z" creationid="diegodiaz" creationdate="20230518T163938Z">
+        <seg>En todo caso, todas estas cosas como el nivel de popularidad y las actividades en las redes sociales solo aumentarán su participación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +906,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>Hay bandas de merodeadores y sectas espeluznantes y violentas en la carretera, robando y asesinando hasta hartarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They haven’t gone away just because he’s driving a fancier car now or getting paid a bit more.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163828Z" creationid="diegodiaz" creationdate="20230518T163828Z">
+        <seg>No han desaparecido sólo porque ahora conduzca un coche más elegante o le paguen un poco más.</seg>
       </tuv>
     </tu>
     <tu>
