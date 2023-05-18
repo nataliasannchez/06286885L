@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>&lt;/s3&gt; &lt;f4&gt;&lt;i5/&gt;&lt;n6&gt;&lt;i7/&gt;&lt;/n6&gt;&lt;f8&gt;Competing visions of the end of days on ‘The Last of Us’ (left) and ‘Station Eleven’ (right: David Wilmot and Caitlin McRill FitzGerald) &lt;s9&gt;Left: Courtesy of HBO; right: Ian Watson/HBO Max&lt;/s9&gt;&lt;/f8&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
-        <seg>&lt;/s3&gt; &lt;f4&gt;&lt;i5/&gt;&lt;n6&gt;&lt;i7/&gt;&lt;/n6&gt;&lt;f8&gt;Visiones enfrentadas del fin de los días en 'The Last of Us' (izquierda) y 'Station Eleven' (derecha: David Wilmot y Caitlin McRill FitzGerald) &lt;s9&gt;Izquierda: Cortesía de HBO; derecha: Ian Watson/HBO Max&lt;/s9&gt;&lt;/f8&gt;&lt;/f4&gt;</seg>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T175640Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;/s3&gt; &lt;f4&gt;&lt;i5/&gt;&lt;n6&gt;&lt;i7/&gt;&lt;/n6&gt;&lt;f8&gt;Visiones enfrentadas del fin de los días en 'The Last of Us' (izquierda) y 'Estación Once' (derecha: David Wilmot y Caitlin McRill FitzGerald) &lt;s9&gt;Izquierda: Cortesía de HBO; derecha: Ian Watson/HBO Max&lt;/s9&gt;&lt;/f8&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>&lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Station Eleven&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;, however, is not about those people.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
-        <seg>&lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Station Eleven&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;, sin embargo, no trata de esa gente.</seg>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T175734Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Estación Once&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;, sin embargo, no trata de esa gente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;This is what makes &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, which premiered in December 2021, such a rare and powerful work of television.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
-        <seg>&lt;s0&gt;Esto es lo que convierte a &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, estrenada en diciembre de 2021, en una obra televisiva tan rara y poderosa.</seg>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T175656Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>&lt;s0&gt;Esto es lo que convierte a &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Estación Once&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, estrenada en diciembre de 2021, en una obra televisiva tan rara y poderosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1001,8 +1001,8 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       <tuv lang="en">
         <seg>Make no mistake, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; is not cozy viewing.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
-        <seg>No nos equivoquemos, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; no es una serie agradable.</seg>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T175836Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>No nos equivoquemos, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Estación Once&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; no es una serie agradable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1121,8 +1121,8 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       <tuv lang="en">
         <seg>Right, it’s not the responsibility of fiction to model the best in humanity, and right, representation not only isn’t endorsement, it might be critique.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
-        <seg>Cierto, no es responsabilidad de la ficción modelar lo mejor de la humanidad, y cierto, la representación no sólo no es apoyo, sino que podría ser crítica.</seg>
+      <tuv lang="es" changeid="Raquel" changedate="20230518T175623Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
+        <seg>Cierto, no es responsabilidad de la ficción modelar lo mejor de la humanidad, y cierto, la representación no solo no es apoyo, sino que podría ser crítica.</seg>
       </tuv>
     </tu>
     <tu>
