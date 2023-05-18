@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>2022’s &lt;/s18&gt;&lt;i19&gt;&lt;s20&gt;Scream&lt;/s20&gt;&lt;/i19&gt;&lt;s21&gt;, the first without Williamson or director Wes Craven, takes the piss out of the current “requel” or “legasequel” trend, in which the original cast passes the torch to a new generation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;/s18&gt;&lt;i19&gt;&lt;s20&gt;Scream&lt;/s20&gt;&lt;/i19&gt;&lt;s21&gt; de 2022, el primero sin Williamson o el director Wes Craven, saca a relucir la tendencia actual de "requel" o "legasequel", en que el elenco original pasa la antorcha a una nueva generación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/s3&gt; &lt;f4&gt;&lt;i5/&gt;&lt;n6&gt;&lt;i7/&gt;&lt;/n6&gt;&lt;f8&gt;Competing visions of the end of days on ‘The Last of Us’ (left) and ‘Station Eleven’ (right: David Wilmot and Caitlin McRill FitzGerald) &lt;s9&gt;Left: Courtesy of HBO; right: Ian Watson/HBO Max&lt;/s9&gt;&lt;/f8&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -30,10 +38,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Scream 2&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt; plays with the expectations around horror sequels, &lt;/s12&gt;&lt;i13&gt;&lt;s14&gt;Scream 3&lt;/s14&gt;&lt;/i13&gt;&lt;s15&gt; is about trilogies, and &lt;/s15&gt;&lt;i16&gt;&lt;s17&gt;Scream 4&lt;/s17&gt;&lt;/i16&gt;&lt;s18&gt; is about the horror remakes of its era.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Scream 2&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt; juega con las expectativas en torno a las secuelas de terror, &lt;/s12&gt;&lt;i13&gt;&lt;s14&gt;Scream 3&lt;/s14&gt;&lt;/i13 &gt;&lt;s15&gt; trata sobre trilogías, y &lt;/s15&gt;&lt;i16&gt;&lt;s17&gt;Scream 4&lt;/s17&gt;&lt;/i16&gt;&lt;s18&gt; trata sobre los remakes de terror de su era.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Station Eleven&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt; is about the people who have inherited the ruins of a dead civilization and said, “What can we do to make this more bearable?</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>&lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;La Estación Once&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt; trata de la gente que ha heredado las ruinas de una civilización muerta y ha dicho: "¿Qué podemos hacer para que esto sea más soportable?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt;SCREAM VI&lt;/b0&gt; ★★1/2&lt;s1&gt; &lt;/s1&gt;&lt;s2&gt;&lt;e3&gt;(2.5/4 stars&lt;/e3&gt;)&lt;/s2&gt;&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;b0&gt;SCREAM VI&lt;/b0&gt; ★★1/2&lt;s1&gt; &lt;/s1&gt;&lt;s2&gt;&lt;e3&gt;(2,5/4 estrellas&lt;/e3&gt;)&lt;/s2&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;i0&gt;&lt;s1&gt;Scream VI&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt; picks up with the survivors from the previous film attempting to start a new life in New York City, a far cry from the suburban California setting of the rest of the series.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>&lt;i0&gt;&lt;s1&gt;Scream VI&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt; continúa con los sobrevivientes de la película anterior que intentan comenzar una nueva vida en la ciudad de Nueva York, muy lejos del entorno suburbano de California del resto. de la serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;i0&gt;&lt;s1&gt;Scream&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt; has always been mired in its own mythology, with each film’s killer inspired by those that came before.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;i0&gt;&lt;s1&gt;Scream&lt;/s1&gt;&lt;/i0&gt;&lt;s2&gt; siempre ha estado sumido en su propia mitología, con el asesino de cada película inspirado en los anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt; Filed Under:&lt;/s0&gt; &lt;a1&gt;Movies&lt;/a1&gt;, &lt;a2&gt;Music&lt;/a2&gt;, &lt;a3&gt;Entertainment&lt;/a3&gt;, &lt;a4&gt;Daniel Pemberton&lt;/a4&gt;, &lt;a5&gt;Ollie Rosenblatt&lt;/a5&gt;, &lt;a6&gt;Kings Theater&lt;/a6&gt;, &lt;a7&gt;Spider-Man: Into the Spider-Verse&lt;/a7&gt;, &lt;a8&gt;Chris Miller&lt;/a8&gt;, &lt;a9&gt;Phil Lord&lt;/a9&gt;, &lt;a10&gt;Brooklyn&lt;/a10&gt;, &lt;a11&gt;Spider-Man&lt;/a11&gt;, &lt;a12&gt;Sony&lt;/a12&gt;, &lt;a13&gt;New York City&lt;/a13&gt;, &lt;a14&gt;New York&lt;/a14&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160959Z" creationid="OmegaT Aligner" creationdate="20230518T160959Z">
+        <seg>&lt;s0&gt; Archivado en:&lt;/s0&gt; &lt;a1&gt;Películas&lt;/a1&gt;, &lt;a2&gt;Música&lt;/a2&gt;, &lt;a3&gt;Entretenimiento&lt;/a3&gt;, &lt;a4&gt;Daniel Pemberton&lt;/a4&gt;, &lt;a5&gt;Ollie Rosenblatt&lt;/a5&gt;, &lt;a6&gt;Kings Theatre&lt;/a6&gt;, &lt;a7&gt;Spider-Man: Into the Spider-Verse&lt;/a7&gt;, &lt;a8&gt;Chris Miller&lt;/a8&gt;, &lt;a9&gt;Phil Lord&lt;/a9&gt;, &lt;a10&gt;Brooklyn&lt;/a10&gt;, &lt;a11&gt;Spider-Man&lt;/a11&gt;, &lt;a12&gt;Sony&lt;/a12&gt;, &lt;a13&gt;Nueva York&lt;/a13&gt;, &lt;a14&gt;Nueva York&lt;/a14&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,10 +174,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Since it debuted in 1996, the &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; series has utilized its “slasher movie about slasher movies” gimmick to keep itself fresh, constantly revising its rules and patterns to mirror the evolution of the genre.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230518T163001Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;s0&gt;Desde su debut en 1996, la serie &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; ha utilizado su truco de "película gore sobre películas gore" para mantenerse fresca, constantemente. revisando sus reglas y patrones para reflejar la evolución del género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;The &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; score also incorporates a variety of unusual instruments: a set piece in which Spider-Men Miles and Peter raid a science lab has a keyboard part, meaning the clacking of a &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;computer&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; keyboard, and the motif for the villainous Kingpin Wilson Fisk is performed by a click-pen.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
         <seg>&lt;s0&gt;La partitura de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; también incorpora una variedad de instrumentos inusuales: una pieza en la que los Spider-Men Miles y Peter asaltan un laboratorio científico tiene una parte de teclado, es decir, el tintineo del teclado de un &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;ordenador&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, y el motivo del villano Kingpin Wilson Fisk se interpreta con un bolígrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;The real key to the tension is, of course, the characters, and &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; has never had a more lovable cast for audiences to fret over.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>&lt;s0&gt;La verdadera clave de la tensión son, por supuesto, los personajes, y &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; nunca ha tenido un elenco más adorable para el público. preocuparse por.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +230,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s11&gt;Starring: &lt;/s11&gt;Melissa Barrera, Jasmin Savoy Brown, Jack Champion, Henry Czerny, Mason Gooding, Liana Liberato, Dermot Mulroney, Devyn Nekoda, Jenna Ortega, Tony Revolori, Josh Segarra, Samara Weaving, Hayden Panettiere, Courteney Cox&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;s11&gt;Protagonizada por: &lt;/s11&gt;Melissa Barrera, Jasmin Savoy Brown, Jack Champion, Henry Czerny, Mason Gooding, Liana Liberato, Dermot Mulroney, Devyn Nekoda, Jenna Ortega, Tony Revolori, Josh Segarra, Samara Weaving, Hayden Panettiere, Courteney Cox&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s13&gt;Running time:&lt;/s13&gt; 123 mins.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;s13&gt;Tiempo de ejecución:&lt;/s13&gt; 123 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s5&gt;Directed by:&lt;/s5&gt; &lt;s6&gt;Matt Bettinelli-Olpin, Tyler Gillett&lt;/s6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;s5&gt;Dirigida por:&lt;/s5&gt; &lt;s6&gt;Matt Bettinelli-Olpin, Tyler Gillett&lt;/s6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s8&gt;Written by: &lt;/s8&gt;&lt;s9&gt;James Vanderbilt, Guy Busick&lt;/s9&gt;&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>&lt;s8&gt;Escrito por: &lt;/s8&gt;&lt;s9&gt;James Vanderbilt, Guy Busick&lt;/s9&gt;&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A prolific film and television composer who’s collaborates with Ridley Scott, Guy Ritchie, and Danny Boyle, Pemberton prides himself in expanding the sonic palette of film music in a multitude of directions, mixing elements of different genres in surprising ways or employing unusual instruments or even non-instruments, like soda bottles or his own body.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152310Z" creationid="sanch" creationdate="20230505T152310Z">
         <seg>Un prolífico director de películas y televisión que ha colaborado con Ridley Scott, Guy Ritchie y Danny Boyle, Pemberton se enorgullece expandiendo la paleta sónica de la música de películas en una multitud de direcciones, mezclando elementos de distinto género de formas sorprendentes o usando instrumentos inusuales, incluso con objetos, como botellas de soda o su propio cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A sequence set on a packed subway on Halloween night is easily one of the most chilling in franchise history.&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Una secuencia ambientada en un metro abarrotado en la noche de Halloween es fácilmente una de las más escalofriantes en la historia de la franquicia.&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All anyone needs to become Ghostface is to decide to do it, and all they need to get away with it is for everyone around them to keep minding their business, as New Yorkers are wont to do.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Todo lo que cualquier persona necesita para convertirse en Ghostface es decidir hacerlo, y todo lo que necesita para salirse con la suya es que todos a su alrededor sigan ocupándose de sus asuntos, como suelen hacer los neoyorquinos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But, true to its mission as a modern franchise film, &lt;/s2&gt;&lt;i3&gt;&lt;s4&gt;Scream VI&lt;/s4&gt;&lt;/i3&gt;&lt;s5&gt;’s focus is inward rather than at the wider world of cinema.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Pero, fiel a su misión como película de franquicia moderna, &lt;/s2&gt;&lt;i3&gt;&lt;s4&gt;Scream VI&lt;/s4&gt;&lt;/i3&gt;&lt;s5&gt; se centra en el interior y no en el mundo más amplio del cine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But, ultimately, showrunner Patrick Somerville and company have a far braver statement to make: That even after everything we now have is gone forever, there will still be a future.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -246,10 +366,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By &lt;s0&gt;&lt;a1&gt;Dylan Roth&lt;/a1&gt;&lt;/s0&gt; • &lt;s2&gt;&lt;t3&gt;03/08/23 9:58am&lt;/t3&gt;&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Por &lt;s0&gt;&lt;a1&gt;Dylan Roth&lt;/a1&gt;&lt;/s0&gt; • &lt;s2&gt;&lt;t3&gt;23/08/03 09:58&lt;/t3&gt;&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By &lt;s0&gt;&lt;a1&gt;Dylan Roth&lt;/a1&gt;&lt;/s0&gt; • &lt;s2&gt;&lt;t3&gt;03/10/23 8:09am&lt;/t3&gt;&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T151752Z" creationid="sanch" creationdate="20230505T151752Z">
         <seg>Por &lt;s0&gt;&lt;a1&gt;Dylan Roth&lt;/a1&gt;&lt;/s0&gt; • &lt;s2&gt;&lt;t3&gt;03/10/23 8:09am&lt;/t3&gt;&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Central protagonist Sam Carpenter (Melissa Barrera) is haunted by visions of her serial-killer father urging her to become &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;’s new villain.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>La protagonista central Sam Carpenter (Melissa Barrera) está atormentada por visiones de su padre asesino en serie instándola a convertirse en la nueva villana de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For most sequels, this would be an unequivocally positive development, but in the case of &lt;/s5&gt;&lt;i6&gt;&lt;s7&gt;Scream&lt;/s7&gt;&lt;/i6&gt;&lt;s8&gt;, it means this chapter is missing a bit of what makes the series special.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Para la mayoría de las secuelas, esto sería un desarrollo inequívocamente positivo, pero en el caso de &lt;/s5&gt;&lt;i6&gt;&lt;s7&gt;Scream&lt;/s7&gt;&lt;/i6&gt;&lt;s8&gt;, significa que a este capítulo le falta un poco de lo que hace que la serie sea especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For people in Brooklyn, this is their movie, and I want to hear their reaction.”</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
@@ -310,10 +454,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the first time in the series, it feels as if exploring the characters is a higher priority than commenting on the state of the genre.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Por primera vez en la serie, parece que explorar a los personajes es una prioridad más alta que comentar sobre el estado del género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the tour’s world premiere, which will take place at the King’s Theatre in Brooklyn on Friday, March 17th, Pemberton expects to play these parts himself, as well as piano.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
         <seg>Para el estreno mundial de la gira, que tendrá lugar en el King's Theatre de Brooklyn el viernes 17 de marzo, Pemberton espera tocar él mismo estos papeles, además del piano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ghostface in ‘Scream VI.’ &lt;s0&gt;Philippe Bossé&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Ghostface en 'Scream VI'. &lt;s0&gt;Philippe Bossé&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Her twin brother Chad (Mason Gooding), is simply adorable, a sweet, handsome non-toxic jock who has chemistry with everyone.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Su hermano gemelo Chad (Mason Gooding) es simplemente adorable, un atleta no tóxico dulce y guapo que tiene química con todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Her younger sister Tara (Jenna Ortega) is her reason for living, but Tara wants her own life, something the audience knows she can never have.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Su hermana menor Tara (Jenna Ortega) es su razón de vivir, pero Tara quiere su propia vida, algo que el público sabe que nunca podrá tener.</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It still functions as a bloody, thrilling mystery, but it doesn’t operate on the higher level that &lt;/s8&gt;&lt;i9&gt;&lt;s10&gt;Scream&lt;/s10&gt;&lt;/i9&gt;&lt;s11&gt; fans have come to expect.&lt;/s11&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Todavía funciona como un misterio sangriento y emocionante, pero no opera en el nivel más alto que los fans de &lt;/s8&gt;&lt;i9&gt;&lt;s10&gt;Scream&lt;/s10&gt;&lt;/i9&gt;&lt;s11&gt; esperan.&lt; /s11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was Pemberton who insisted that the concert tour, which is planned to hit cities around the US, UK, Europe, and Japan, should begin in Brooklyn, the home of the film’s hero Miles Morales.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
@@ -382,10 +566,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It works as a slashy thriller, but not so much on the meta level 'Scream' fans have come to expect.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Funciona como un thriller slashy, pero no tanto en el nivel meta que los fanáticos de 'Scream' esperan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its depictions of its global pandemic (shot mostly before the COVID-19 outbreak) may tug at still-healing wounds or recall recent memories of loss and despair.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>Sus descripciones de la pandemia global (rodadas en su mayor parte antes del brote de COVID-19) pueden hurgar en heridas aún cicatrizadas o evocar recuerdos recientes de pérdida y desesperación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It’s a testament to how well these performers work together that absent original &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Scream &lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;star Neve Campbell isn’t missed, and that Courteney Cox’s appearances in the film don’t feel that necessary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Es un testimonio de lo bien que estos artistas trabajan juntos que la estrella original de &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Scream &lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;Neve Campbell no se pierde, y que las apariciones de Courteney Cox en el la película no se siente tan necesaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It’s not uncharted territory, it’s simply not as ripe for parody.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>No es un territorio desconocido, simplemente no está tan maduro para la parodia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It’s through her that we experience the exhaustion of being trapped in the franchise meat grinder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Es a través de ella que experimentamos el agotamiento de estar atrapados en la picadora de carne de la franquicia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Like last week’s &lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Creed III&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt;, the next installment in this franchise should get by just fine without any of the legacy cast.&lt;/s12&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Al igual que &lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Creed III&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt; de la semana pasada, la próxima entrega de esta franquicia debería funcionar bien sin ninguno de los personajes heredados.&lt;/s12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make no mistake, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Station Eleven&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; is not cozy viewing.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -422,10 +646,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mindy Meeks-Martin (Jasmin Savoy Brown) is the gang’s resident horror-movie supergenius, but beyond her role of explaining the patterns of the genre to the gang/audience, she’s also effortlessly funny.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Mindy Meeks-Martin (Jasmin Savoy Brown) es la súper genio de las películas de terror residente de la pandilla, pero más allá de su papel de explicar los patrones del género a la pandilla/audiencia, también es divertida sin esfuerzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Naturally, the legacy of the Ghostface murders has followed them East, and soon they’re on the run for their lives yet again.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Naturalmente, el legado de los asesinatos de Ghostface los ha seguido hacia el este, y pronto estarán huyendo por sus vidas una vez más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not So Much</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>No tanto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now, Pemberton is tasked with finding a way to reproduce this effect in a live performance, something that concert producer Ollie Rosenblatt says has never been attempted before on this sort of stage.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>Ahora, Pemberton tiene la tarea de encontrar la forma de reproducir este efecto en una actuación en directo, algo que, según el productor de conciertos Ollie Rosenblatt, nunca se ha intentado antes en este tipo de escenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of Course!</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>¡Por supuesto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>¿Especial?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Station Eleven is currently available to stream on HBO Max.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -510,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The format, established by screenwriter Kevin Williamson, practically writes itself — the first &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; riffs on John Carpenter’s &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Halloween&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;, its imitators, and its ancestors.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>El formato, establecido por el guionista Kevin Williamson, prácticamente se escribe solo: los primeros &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; riffs de John Carpenter &lt;/s6&gt;&lt;i7&gt;&lt;s8 &gt;Halloween&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;, sus imitadores y sus ancestros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The miniseries, based on the novel by Emily St. John Mandel, centers around a deadly global pandemic and its aftermath.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -522,6 +794,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>El emotivo clímax de la película, en el que el protagonista se traga sus dudas y realiza un arriesgado salto desde un rascacielos de Manhattan -presentado a través de una cámara invertida como un ascenso en lugar de una caída- se ha convertido en un momento icónico del cine reciente gracias en gran medida a la interacción entre los temas orquestados de Pemberton y "What's Up Danger" del rapero Blackway y el dúo de productores Black Caviar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The self-styled “core four” of the relaunched series each feels essential, heightening the danger in a film where any of the leads could realistically die.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Cada uno de los autodenominados "cuatro principales" de la serie relanzada se siente esencial, lo que aumenta el peligro en una película en la que cualquiera de los protagonistas podría morir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +842,22 @@
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152434Z" creationid="sanch" creationdate="20230505T152434Z">
         <seg>Esto le ha convertido en uno de los compositores más interesantes del mercado, pero también hace que la reproducción de su trabajo en un concierto en directo sea muy poco práctico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This puts &lt;/s21&gt;&lt;i22&gt;&lt;s23&gt;Scream VI&lt;/s23&gt;&lt;/i22&gt;&lt;s24&gt;, “a sequel to a requel,” at something of a disadvantage, in that there are no specific low-hanging rules or tropes to subvert.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230518T163105Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Esto pone a &lt;/s21&gt;&lt;i22&gt;&lt;s23&gt;Scream VI&lt;/s23&gt;&lt;/i22&gt;&lt;s24&gt;, "una secuela de una secuela", en cierta desventaja, ya que no hay reglas específicas al alcance de la mano, o tropos para subvertir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This sequel to a requel moves the action to New York City.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Esta secuela de una secuela traslada la acción a la ciudad de Nueva York.</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>True to form, &lt;/s2&gt;&lt;i3&gt;&lt;s4&gt;Scream VI&lt;/s4&gt;&lt;/i3&gt;&lt;s5&gt; is a neck-breakingly twisty whodunnit in which absolutely everyone is a suspect and nowhere is safe, a danger that is only intensified by the new setting.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Fiel a su forma, &lt;/s2&gt;&lt;i3&gt;&lt;s4&gt;Scream VI&lt;/s4&gt;&lt;/i3&gt;&lt;s5&gt; es una novela policíaca retorcida y desgarradora en la que absolutamente todos son sospechosos y ningún lugar es seguro, un peligro que es intensificada por el nuevo escenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Two months ahead of tour kickoff, Pemberton was puzzling out how to notate the DJ’s parts in the live orchestral score, as there isn’t yet an accepted standard for doing so.&lt;/s6&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
@@ -638,10 +942,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Where its suburban siblings play on fear of isolation in big, empty houses, this installment exploits the equal and opposite fear of crowds and tight spaces, which is an excellent fit for a series whose iconic killer is always a mortal in a common store-bought mask.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>Donde sus hermanos suburbanos juegan con el miedo al aislamiento en casas grandes y vacías, esta entrega explota el miedo igual y opuesto a las multitudes y los espacios reducidos, lo que encaja perfectamente con una serie cuyo asesino icónico es siempre un mortal en una tienda común. mascarilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With the exception of the Jackson commune seen in Episode 6, every group of human survivors that Joel and Ellie encounter is some sort of hell, whether it be a fascist military dictatorship, an equally tarnished post-revolutionary state, or a reactionary religious cult.</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230512T153358Z" creationid="Raquel" creationdate="20230512T153358Z">
         <seg>A excepción de la comunidad de Jackson en el Episodio 6, todos los grupos de supervivientes humanos con los que Joel y Ellie se topaban eran un infierno, o bien eran una dictadura militar y fascista, un estado posrevolucionario igual de dañado o bien una secta conservadora y religiosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without a specific metatextual checklist to work from, &lt;/s24&gt;&lt;i25&gt;&lt;s26&gt;Scream VI&lt;/s26&gt;&lt;/i25&gt;&lt;s27&gt; is forced to function simply as “a franchise movie,” an installment in a series whose only unbreakable rule is that it never ends.&lt;/s27&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Sin una lista de verificación metatextual específica para trabajar, &lt;/s24&gt;&lt;i25&gt;&lt;s26&gt;Scream VI&lt;/s26&gt;&lt;/i25&gt;&lt;s27&gt; se ve obligada a funcionar simplemente como "una película de franquicia", una entrega de una serie cuya la única regla inquebrantable es que nunca termina.&lt;/s27&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162802Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
+        <seg>datos:imagen/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230518T153939Z" creationid="sanch" creationdate="20230512T143106Z">
@@ -674,6 +1002,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>https://observer.com/wp-content/uploads/sites/2/2023/03/FotoJet-1.jpg?quality=80&amp;w=970&amp;strip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>‘Scream VI’ Review: Bloody?</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Revisión de Scream VI: ¿Maldito?</seg>
       </tuv>
     </tu>
     <tu>
