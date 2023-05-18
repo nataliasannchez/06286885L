@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -494,6 +494,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He’s still new to West Ham.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163207Z" creationid="diegodiaz" creationdate="20230518T163207Z">
+        <seg>Todavía es nuevo en el West Ham..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He’s still suffering from the guilt, shame, regret, the anger of leaving Richmond the way he did.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T163333Z" creationid="diegodiaz" creationdate="20230518T163333Z">
+        <seg> Todavía sufre de culpa, vergüenza, tristeza e ira por dejar a Richmond de esta manera. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How did directors Phil Lord and Chris Miller convince Pemberton, who habitually avoids anything cookie-cutter, to come on board?&lt;/s9&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T162331Z" creationid="sanch" creationdate="20230505T162331Z">
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
         <seg>¡Por supuesto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On a scale of a little bit bad to complete evil villain, where do we find Nate this season?</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T162806Z" creationid="diegodiaz" creationdate="20230518T162806Z">
+        <seg>En una escala que va de un poco malo a un completo villano malvado, ¿dónde encontramos a Nate esta temporada?</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,6 +946,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>Dos meses antes del inicio de la gira, Pemberton estaba buscando la forma de anotar las partes del DJ en la partitura orquestal en directo, ya que aún no existe una norma aceptada para hacerlo.&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We find him where we left off in season two, really.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T162831Z" creationid="diegodiaz" creationdate="20230518T162831Z">
+        <seg>Lo encontramos donde lo dejamos en la segunda temporada, en realidad.</seg>
       </tuv>
     </tu>
     <tu>
