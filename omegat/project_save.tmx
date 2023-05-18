@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;At events like this one, the usual rules of decorum around orchestral performance are, happily, rescinded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>&lt;s0&gt;En eventos como éste, las normas habituales de decoro en torno a la interpretación orquestal quedan, felizmente, rescindidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Enter Ollie Rosenblatt of Senbla, a London-based company that produces movie screenings in which the soundtrack is performed by a live orchestra.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
@@ -22,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Preserving the relationship with &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;’s pop soundtrack and is essential to a front-to-back performance of Pemberton’s original score, but only one of the reasons why the &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; concert tour will feature a live DJ alongside the orchestra.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>&lt;s0&gt;Preservar la relación con &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; la banda sonora pop de &lt;strong&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; es esencial para una interpretación íntegra de la partitura original de Pemberton, pero es sólo una de las razones por las que la gira de conciertos de &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; contará con un DJ en directo junto a la orquesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;The &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; score also incorporates a variety of unusual instruments: a set piece in which Spider-Men Miles and Peter raid a science lab has a keyboard part, meaning the clacking of a &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;computer&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; keyboard, and the motif for the villainous Kingpin Wilson Fisk is performed by a click-pen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>&lt;s0&gt;La partitura de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; también incorpora una variedad de instrumentos inusuales: una pieza en la que los Spider-Men Miles y Peter asaltan un laboratorio científico tiene una parte de teclado, es decir, el tintineo del teclado de un &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;ordenador&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, y el motivo del villano Kingpin Wilson Fisk se interpreta con un bolígrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;When he was approached about &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, an animated film about an Afro-Latinx teenager from Brooklyn who takes up the mantle of the web-slinging vigilante, the turntable-scratched orchestra seemed like a fit, but Pemberton was initially skeptical that a big-budget animated superhero movie would be a welcome venue for his experimentation.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230512T152036Z" creationid="sanch" creationdate="20230505T161659Z">
@@ -30,10 +54,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;“I’m hoping, in the audience, there will be people who have never seen a scratch DJ before, or people who have never seen an orchestra before and &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;have&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; seen scratch DJs.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>&lt;s0&gt;"Espero que, entre el público, haya gente que nunca antes haya visto un DJ de scratch, o gente que nunca antes haya visto una orquesta y &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;haya&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; visto DJs de scratch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A prolific film and television composer who’s collaborates with Ridley Scott, Guy Ritchie, and Danny Boyle, Pemberton prides himself in expanding the sonic palette of film music in a multitude of directions, mixing elements of different genres in surprising ways or employing unusual instruments or even non-instruments, like soda bottles or his own body.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152310Z" creationid="sanch" creationdate="20230505T152310Z">
         <seg>Un prolífico director de películas y televisión que ha colaborado con Ridley Scott, Guy Ritchie y Danny Boyle, Pemberton se enorgullece expandiendo la paleta sónica de la música de películas en una multitud de direcciones, mezclando elementos de distinto género de formas sorprendentes o usando instrumentos inusuales, incluso con objetos, como botellas de soda o su propio cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assured that he would be free to let loose his ambition, Pemberton composed a unique score that combined the expected orchestra with trap beats, scratching, and other hip hop and turntablist elements, weaving perfectly between or even through the film’s pop songtrack.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>Con la seguridad de que tendría libertad para dar rienda suelta a su ambición, Pemberton compuso una partitura única que combinaba la esperada orquesta con ritmos trap, scratching y otros elementos hip hop y turntablistas, entrelazándose perfectamente entre o incluso a través de la banda sonora pop de la película.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Buy Tickets Here</seg>
+      </tuv>
+      <tuv lang="es" changeid="sanch" changedate="20230518T160907Z" creationid="sanch" creationdate="20230518T160907Z">
+        <seg>Comprar las entradas aquí</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +118,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For Pemberton, there’s also the wish that the &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; concert tour will bring together a variety of audiences just as the film did.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>Para Pemberton, también existe el deseo de que la gira de conciertos de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; reúna a una gran variedad de público al igual que lo hizo la película.&lt;/s3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For people in Brooklyn, this is their movie, and I want to hear their reaction.”</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>Para la gente de Brooklyn, ésta es su película, y quiero oír su reacción".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the tour’s world premiere, which will take place at the King’s Theatre in Brooklyn on Friday, March 17th, Pemberton expects to play these parts himself, as well as piano.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>Para el estreno mundial de la gira, que tendrá lugar en el King's Theatre de Brooklyn el viernes 17 de marzo, Pemberton espera tocar él mismo estos papeles, además del piano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How did directors Phil Lord and Chris Miller convince Pemberton, who habitually avoids anything cookie-cutter, to come on board?&lt;/s9&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T162331Z" creationid="sanch" creationdate="20230505T162331Z">
         <seg>¿Cómo el director Phil Lord y Chris Miller convencieron a Pemberton, quien habitualmente evita cualquier cosa del montón, para que se animara a hacer la película?&lt;/s9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I want this concert to bring all of these different worlds together, and create something new and fresh that hopefully excites people and makes them want to do things.”&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>Quiero que este concierto reúna todos estos mundos diferentes y cree algo nuevo y fresco que, espero, emocione a la gente y le dé ganas de hacer cosas."&lt;/s3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +166,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, Pemberton and DJ Blakey, a well-heeled London turntablist, employed modern Serato DJ software to virtually spin and scratch the uncompressed orchestral recording.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>En su lugar, Pemberton y DJ Blakey, un adinerado tornamesista londinense, emplearon el moderno software Serato DJ para hacer girar y rascar virtualmente la grabación orquestal sin comprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was Pemberton who insisted that the concert tour, which is planned to hit cities around the US, UK, Europe, and Japan, should begin in Brooklyn, the home of the film’s hero Miles Morales.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>Fue Pemberton quien insistió en que la gira de conciertos, que está previsto que recorra ciudades de Estados Unidos, Reino Unido, Europa y Japón, comenzara en Brooklyn, el hogar del héroe de la película, Miles Morales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matched together by Sony, which owns both the studio that produced &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; and a majority stake in Senbla, Pemberton and Rosenblatt conceived an ambitious touring concert series that would allow Pemberton to realize his music live on stage for the first time, and to push the boundaries of orchestral performance in the process.&lt;/s3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
         <seg>Unidos por Sony, propietaria del estudio que produjo &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; y de una participación mayoritaria en Senbla, Pemberton y Rosenblatt concibieron una ambiciosa serie de conciertos itinerantes que permitiría a Pemberton realizar su música en directo por primera vez y, de paso, ampliar los límites de la interpretación orquestal.&lt;/s3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now, Pemberton is tasked with finding a way to reproduce this effect in a live performance, something that concert producer Ollie Rosenblatt says has never been attempted before on this sort of stage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>Ahora, Pemberton tiene la tarea de encontrar la forma de reproducir este efecto en una actuación en directo, algo que, según el productor de conciertos Ollie Rosenblatt, nunca se ha intentado antes en este tipo de escenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the technical challenges of recording the score was incorporating scratch turntablism into an orchestral recording, a process that might once have required pressing the studio orchestra session onto vinyl and then having a DJ fiddle with it live to tape.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>Uno de los retos técnicos de la grabación de la partitura fue incorporar el scratch turntablism a una grabación orquestal, un proceso que en su día podría haber requerido prensar la sesión de orquesta de estudio en vinilo y luego hacer que un DJ jugueteara con ella en directo para grabarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pemberton and Rosenblatt encourage audiences to vocalize their enthusiasm throughout the show.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>Pemberton y Rosenblatt animan al público a vocalizar su entusiasmo durante todo el espectáculo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +222,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>Reproducir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Music of ‘Spider-Man’ Makes A Live Leap From The Spider-Verse To Brooklyn</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152922Z" creationid="sanch" creationdate="20230505T151441Z">
         <seg>La música de "Spider-Man" realiza un gran salto desde el multiverso de Spiderman hasta Brooklyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The movie’s emotional climax in which the protagonist swallows his self-doubt and makes a daring leap from a Manhattan skyscraper — presented via an inverted camera as an ascent rather than a fall — has become an iconic moment recent cinema thanks in no small part to the interplay between Pemberton’s orchestrated themes and “What’s Up Danger” by rapper Blackway and producing duo Black Caviar.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>El emotivo clímax de la película, en el que el protagonista se traga sus dudas y realiza un arriesgado salto desde un rascacielos de Manhattan -presentado a través de una cámara invertida como un ascenso en lugar de una caída- se ha convertido en un momento icónico del cine reciente gracias en gran medida a la interacción entre los temas orquestados de Pemberton y "What's Up Danger" del rapero Blackway y el dúo de productores Black Caviar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This caused no shortage of headaches for Rosenblatt and his UK-based production company, but is an appropriate launchpad for a project that should help him take Senbla global.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>Esto causó no pocos quebraderos de cabeza a Rosenblatt y a su productora con sede en el Reino Unido, pero es una plataforma de lanzamiento apropiada para un proyecto que debería ayudarle a llevar Senbla a todo el mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This would probably not have sounded particularly good in the surround sound of a movie theater.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>Esto probablemente no habría sonado especialmente bien en el sonido envolvente de una sala de cine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Though significantly simplified for performance by a traditional ensemble of winds and strings, it was enough to convince Pemberton that a concert of the &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Into the Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; score could be achieved, with all of the bells and literal whistles.&lt;/s6&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T155014Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
@@ -126,10 +278,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Two months ahead of tour kickoff, Pemberton was puzzling out how to notate the DJ’s parts in the live orchestral score, as there isn’t yet an accepted standard for doing so.&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
+        <seg>Dos meses antes del inicio de la gira, Pemberton estaba buscando la forma de anotar las partes del DJ en la partitura orquestal en directo, ya que aún no existe una norma aceptada para hacerlo.&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When asked if he would be conducting the concert, Pemberton replied, frankly, “There’s nothing worse than a film composer pretending to conduct.”&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>Cuando se le preguntó si dirigiría el concierto, Pemberton contestó con franqueza: "No hay nada peor que un compositor de cine pretendiendo dirigir"&lt;/s6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230518T153939Z" creationid="sanch" creationdate="20230512T143106Z">
         <seg>en-US </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“But spiritually, it’s so important to the character.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>"Pero espiritualmente es muy importante para el personaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +338,14 @@
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230512T153108Z" creationid="sanch" creationdate="20230505T163220Z">
         <seg>“Ahora, solo lo aceptas como parte de la película, pero en ese momento, era una locura, y eso fue lo que me indicó que esos chicos iban realmente a impulsarla ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“Ollie hates me for this,” laughs Pemberton.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160647Z" creationid="OmegaT Aligner" creationdate="20230518T160647Z">
+        <seg>"Ollie me odia por esto", ríe Pemberton.</seg>
       </tuv>
     </tu>
     <tu>
