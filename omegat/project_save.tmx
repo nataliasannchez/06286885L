@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b0&gt;What was been the biggest shift you’ve seen in your career since &lt;/b0&gt;&lt;b1&gt;&lt;i2&gt;Ted Lasso&lt;/i2&gt;&lt;/b1&gt;&lt;b3&gt; became so popular?&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132233Z" creationid="diegodiaz" creationdate="20230519T132233Z">
+        <seg>&lt;b0&gt; ¿Cuál ha sido el mayor cambio que has visto en tu carrera desde que Ted Lasso se hizo tan popular?&lt;/b0&gt;&lt;b1&gt;&lt;i2&gt;&lt;/i2&gt;&lt;/b1&gt;&lt;b3&gt; &lt;/b3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;a1&gt;What to Watch&lt;/a1&gt; &lt;/e0&gt;is a regular endorsement of movies and TV worth your streaming time.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
@@ -942,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I was suddenly without them and that did feel weird.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132153Z" creationid="diegodiaz" creationdate="20230519T132153Z">
+        <seg>De repente me encontraba sin ellos y eso me resultaba extraño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If anything, all those things, like the mild celebrity status and social media interaction, all they’re doing is increasing his downfall.</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230518T163938Z" creationid="diegodiaz" creationdate="20230518T163938Z">
@@ -1431,6 +1447,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That’s a good question and it’s a difficult one to answer because as an actor or writer you don’t always know the answer to that.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132250Z" creationid="diegodiaz" creationdate="20230519T132250Z">
+        <seg>Es una buena pregunta y difícil de responder porque, como actor o guionista, no siempre sabes la respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Music of ‘Spider-Man’ Makes A Live Leap From The Spider-Verse To Brooklyn</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152922Z" creationid="sanch" creationdate="20230505T151441Z">
@@ -1856,10 +1880,34 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You don’t know what is said about you.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132344Z" creationid="diegodiaz" creationdate="20230519T132344Z">
+        <seg> No sabes lo que la gente dice de ti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You don’t know what you might be considered for then never get.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132402Z" creationid="diegodiaz" creationdate="20230519T132402Z">
+        <seg> No sabes para qué te van a tomar, nunca te van a dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You must be wearing a wig in season three, right?</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230519T130724Z" creationid="diegodiaz" creationdate="20230519T130724Z">
         <seg>Debes estar usando una peluca en la tercera temporada, ¿verdad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You never really hear about it or [hear] when your name is mentioned.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132643Z" creationid="diegodiaz" creationdate="20230519T132643Z">
+        <seg>Incluso cuando se menciona tu nombre, nunca has oído hablar de él.</seg>
       </tuv>
     </tu>
     <tu>
