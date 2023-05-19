@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;I always tried to find a way of empathizing with his behavior, even though I wasn’t ever personally condoning his actions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131707Z" creationid="diegodiaz" creationdate="20230519T131707Z">
+        <seg>&lt;s0&gt; Siempre trato de encontrar una manera de empatizar con su comportamiento, aunque personalmente nunca lo he aprobado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Is it an interesting story?</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T173917Z" creationid="Raquel" creationdate="20230518T173917Z">
         <seg>El estrangulador de Boston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But I felt that it was important to find truth to why he was behaving that way.&lt;/s0&gt; &lt;f1&gt;&lt;i2/&gt;&lt;n3&gt;&lt;i4/&gt;&lt;/n3&gt;&lt;f5&gt;Brett Goldstein, Brendan Hunt and Jason Sudeikis (from left) in ‘Ted Lasso.’ &lt;s6&gt;AppleTV+&lt;/s6&gt;&lt;/f5&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131824Z" creationid="diegodiaz" creationdate="20230519T131824Z">
+        <seg>Pero sentía que era importante encontrar la verdad de por qué se comportaba así.&lt;/s0&gt; &lt;f1&gt;&lt;i2/&gt;&lt;n3&gt;&lt;i4/&gt;&lt;/n3&gt;&lt;f5&gt;Brett Goldstein, Brendan Hunt y  Jason Sudeikis en la serie ‘Ted Lasso.’ &lt;s6&gt;AppleTV+&lt;/s6&gt;&lt;/f5&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +842,14 @@
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T162331Z" creationid="sanch" creationdate="20230505T162331Z">
         <seg>¿Cómo el director Phil Lord y Chris Miller convencieron a Pemberton, quien habitualmente evita cualquier cosa del montón, para que se animara a hacer la película?&lt;/s9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I did rely on a lot of coaching through it from Jason and our great team of directors.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131632Z" creationid="diegodiaz" creationdate="20230519T131632Z">
+        <seg>He confiado mucho en la ayuda de Jason y de nuestro excelente equipo de directores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1279,6 +1303,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So there was slightly less to draw on there and more of a challenge as an actor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131610Z" creationid="diegodiaz" creationdate="20230519T131610Z">
+        <seg>Entonces, como actor, hay menos inspiración y más desafíos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some people have to escape the impending doom of the climate catastrophe, while others are happy to profit off of the chaos.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
@@ -1476,6 +1508,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152434Z" creationid="sanch" creationdate="20230505T152434Z">
         <seg>Esto le ha convertido en uno de los compositores más interesantes del mercado, pero también hace que la reproducción de su trabajo en un concierto en directo sea muy poco práctico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This more front foot, aggressive, slightly unhinged version of Nate, with elements of him being depressive as well, that’s less familiar to me as a as an individual.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131555Z" creationid="diegodiaz" creationdate="20230519T131555Z">
+        <seg>Esta versión más positiva, agresiva y algo relajada de Nate también tiene elementos de depresión con los que no estoy particularmente familiarizado personalmente.</seg>
       </tuv>
     </tu>
     <tu>
