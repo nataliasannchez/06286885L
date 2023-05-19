@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;I shot a film in America last year [&lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Maggie Moore(s)&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;], which I didn’t really audition for.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132857Z" creationid="diegodiaz" creationdate="20230519T132857Z">
+        <seg>&lt;s0&gt;el año pasado rodé una película en América [&lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Maggie Moore(s)&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;], y no hice ninguna prueba. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Is it an interesting story?</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T173917Z" creationid="Raquel" creationdate="20230518T173917Z">
         <seg>El estrangulador de Boston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But I don’t want to be naive about it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132655Z" creationid="diegodiaz" creationdate="20230519T132655Z">
+        <seg>Pero no seré ingenuo al respecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I mean, it’s been an absolutely incredible calling card.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132708Z" creationid="diegodiaz" creationdate="20230519T132708Z">
+        <seg> Esta es una tarjeta de presentación increíble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I think we see him as a troubled soul rather than as an evil figure.</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230518T164029Z" creationid="diegodiaz" creationdate="20230518T164029Z">
@@ -1130,6 +1154,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
         <seg>No es un territorio desconocido, simplemente no está tan maduro para la parodia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It’s such a well-loved show and I’m so so proud of it and grateful for being a part of it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132722Z" creationid="diegodiaz" creationdate="20230519T132722Z">
+        <seg>Esta es una serie querida de la que estoy muy orgulloso y agradecido de ser parte.</seg>
       </tuv>
     </tu>
     <tu>
