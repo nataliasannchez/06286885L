@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131900Z" creationid="diegodiaz" creationdate="20230519T131900Z">
+        <seg>&lt;s0&gt;Completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Enter Ollie Rosenblatt of Senbla, a London-based company that produces movie screenings in which the soundtrack is performed by a live orchestra.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T154543Z" creationid="OmegaT Aligner" creationdate="20230505T154543Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And I tried to use that from an acting point of view as much as possible.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131913Z" creationid="diegodiaz" creationdate="20230519T131913Z">
+        <seg>Y traté de utilizar eso desde el punto de vista de la actuación tanto como fuera posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And because it’s a short wig and I’ve got short hair, the amount of pins that had to go in it.</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230519T130845Z" creationid="diegodiaz" creationdate="20230519T130845Z">
@@ -434,6 +450,14 @@
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230519T131537Z" creationid="diegodiaz" creationdate="20230519T131537Z">
         <seg>Y con mi experiencia actoral anterior, los papeles que he interpretado son más como personas de bajo estatus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And listen, it was a joy to work with Anthony Head.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132013Z" creationid="diegodiaz" creationdate="20230519T132013Z">
+        <seg>Escucha, he tenido el placer de trabajar con Anthony Head.</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,10 +558,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But all the West Ham players and people who I didn’t know, they were quite intimidating because they’re so great.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132054Z" creationid="diegodiaz" creationdate="20230519T132054Z">
+        <seg>Pero todos los jugadores del West Ham y la gente que no conocía, eran bastante intimidante porque son tan grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But harsh reflections of the apocalypse aren’t a hard sell to an audience that has seen a thousand doomsdays on TV and may make the one unfolding now seem, well, not so bad by comparison.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T160452Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
         <seg>Pero las duras reflexiones sobre el apocalipsis no son difíciles de vender a un público que ha visto miles de catástrofes en la televisión y pueden hacer que la que se está desarrollando ahora parezca, bueno, no tan mala en comparación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But it was far from the &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Ted Lasso&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; family that we’ve grown over the last few years.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132140Z" creationid="diegodiaz" creationdate="20230519T132140Z">
+        <seg>Pero estaba lejos de la familia de  &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Ted Lasso&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; ue hemos formado en los últimos años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +866,30 @@
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230518T163333Z" creationid="diegodiaz" creationdate="20230518T163333Z">
         <seg> Todavía sufre de culpa, vergüenza, tristeza e ira por dejar a Richmond de esta manera. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He’s such a sweetheart.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132032Z" creationid="diegodiaz" creationdate="20230519T132032Z">
+        <seg>Ese es el encanto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He’s suddenly in this completely different environment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131959Z" creationid="diegodiaz" creationdate="20230519T131959Z">
+        <seg>De repente estás en un entorno completamente diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His new job means he’s not at Richmond anymore.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131836Z" creationid="diegodiaz" creationdate="20230519T131836Z">
+        <seg>Su nuevo trabajo significa que ya no está en Richmond.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,6 +1359,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So that was so great to have scenes with him.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132043Z" creationid="diegodiaz" creationdate="20230519T132043Z">
+        <seg>Fue genial tener escenas con él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So that’s a testament to the amazing makeup department.</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230519T131340Z" creationid="diegodiaz" creationdate="20230519T131340Z">
@@ -1480,6 +1552,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They’re brilliant.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T132106Z" creationid="diegodiaz" creationdate="20230519T132106Z">
+        <seg>son brillantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They’re so smart, those writers, and they planted seeds all along the way.&lt;/s0&gt; &lt;f1&gt;&lt;i2/&gt;&lt;n3&gt;&lt;i4/&gt;&lt;/n3&gt;&lt;f5&gt;Nick Mohammed (left) and Jason Sudeikis in ‘Ted Lasso.’ &lt;s6&gt;AppleTV+&lt;/s6&gt;&lt;/f5&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230519T130646Z" creationid="diegodiaz" creationdate="20230519T130613Z">
@@ -1600,6 +1680,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To try and feel that loneliness because it is what Nate’s going through.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131923Z" creationid="diegodiaz" creationdate="20230519T131923Z">
+        <seg>Intentar sentir esa soledad porque es por lo que está pasando Nate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Top: Pedro Pascal and Bella Ramsey in ‘The Last of Us’; bottom: Mackenzie Davis and Caitlin McRill FitzGerald in ‘Station Eleven.” &lt;s0&gt;Liane Hentscher/HBO (top); Ian Watson/HBO Max (bottom)&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230505T152421Z" creationid="Raquel" creationdate="20230505T152421Z">
@@ -1620,6 +1708,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>Dos meses antes del inicio de la gira, Pemberton estaba buscando la forma de anotar las partes del DJ en la partitura orquestal en directo, ya que aún no existe una norma aceptada para hacerlo.&lt;/s6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Was it been weird for you to not be sharing scenes with your usual co-stars?</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T131847Z" creationid="diegodiaz" creationdate="20230519T131847Z">
+        <seg>¿Le resultó extraño no compartir escenas con sus coprotagonistas habituales?</seg>
       </tuv>
     </tu>
     <tu>
