@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -410,6 +410,14 @@
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230518T163713Z" creationid="diegodiaz" creationdate="20230518T163713Z">
         <seg>Y aunque Nate a menudo se presenta como malvado y sus acciones fueron imperdonables para los demás, sigue siendo la persona insegura que conocimos al comienzo de la primera temporada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And then equally, particularly with season three, remembering stuff from way back in season one and trying to tune into some of that again.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T130152Z" creationid="diegodiaz" creationdate="20230519T130152Z">
+        <seg>Y también, sobre todo en la tercera temporada, recordábamos cosas de la primera temporada y tratábamos de sintonizar con ellas de nuevo..</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just have that in the back of your mind.” There were often times when we were looking forward to what we hadn’t filmed yet, but we were going to film.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T164822Z" creationid="diegodiaz" creationdate="20230518T164822Z">
+        <seg>Tenlo presente". A menudo teníamos ganas de ver lo que aún no habíamos rodado, pero que íbamos a rodar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keira Knightley loves a period piece, but &lt;e0&gt;Boston Strangler &lt;/e0&gt;sees the actress take on recent history.</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T174011Z" creationid="Raquel" creationdate="20230518T173749Z">
@@ -1303,10 +1319,27 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There would often be times when Jason or Joe [Kelly] or Brendan [Hunt] or one of the writers would say, “Oh, this is important because in a year’s time you’re going to be doing this.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230518T164604Z" creationid="diegodiaz" creationdate="20230518T164604Z">
+        <seg> A menudo, Jason o Joe [Kelly] o Brendan [Hunt] o uno de los escritores me decía:
+"Esto es importante porque lo harás durante un año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They haven’t gone away just because he’s driving a fancier car now or getting paid a bit more.</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230518T163828Z" creationid="diegodiaz" creationdate="20230518T163828Z">
         <seg>No han desaparecido sólo porque ahora conduzca un coche más elegante o le paguen un poco más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They’re so smart, those writers, and they planted seeds all along the way.&lt;/s0&gt; &lt;f1&gt;&lt;i2/&gt;&lt;n3&gt;&lt;i4/&gt;&lt;/n3&gt;&lt;f5&gt;Nick Mohammed (left) and Jason Sudeikis in ‘Ted Lasso.’ &lt;s6&gt;AppleTV+&lt;/s6&gt;&lt;/f5&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T130613Z" creationid="diegodiaz" creationdate="20230519T130613Z">
+        <seg>Los guionistas son muy listos y han plantado semillas por todo el camino.&lt;/s0&gt; &lt;f1&gt;&lt;i2/&gt;&lt;n3&gt;&lt;i4/&gt;&lt;/n3&gt;&lt;f5&gt;Nick Mohammed (left) and Jason Sudeikis in ‘Ted Lasso.’ &lt;s6&gt;AppleTV+&lt;/s6&gt;&lt;/f5&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
