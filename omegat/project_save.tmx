@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Make no mistake, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream VI&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; is still an exciting and functional thrill ride, but it could be an ill omen that a series designed to adapt to its times may be blending in too well.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T142554Z" creationid="diegodiaz" creationdate="20230519T142554Z">
+        <seg>&lt;s0&gt;No se equivoquen, &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream VI&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;sigue siendo un viaje poderoso y emocionante, pero eso podría ser un mal presagio ya que una serie diseñada para su época podría estar en decadencia. Es demasiado bueno para confundirte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Or, so he thought, until he caught a show in which a small local orchestra performed two cues from one of his most popular works, the score to &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T154942Z" creationid="sanch" creationdate="20230505T154942Z">
@@ -830,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, &lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Scream VI&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt;’s plot gets wobbly in the third act, a problem so common amongst modern blockbusters that this film could probably have gotten away with it if they’d pointed it out themselves.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T142418Z" creationid="diegodiaz" creationdate="20230519T142418Z">
+        <seg>Por ejemplo, &lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;la trama de Scream VI&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt;se tambalea en el tercer acto, un problema tan común en los éxitos de taquillas modernos que esta película podría haberse evitado si ellos mismos lo hubieran señalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For most sequels, this would be an unequivocally positive development, but in the case of &lt;/s5&gt;&lt;i6&gt;&lt;s7&gt;Scream&lt;/s7&gt;&lt;/i6&gt;&lt;s8&gt;, it means this chapter is missing a bit of what makes the series special.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
@@ -850,6 +866,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
         <seg>Por primera vez en la serie, parece que explorar a los personajes es una prioridad más alta que comentar sobre el estado del género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the first time, &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; seems at risk of becoming just another horror perennial, one that fans go see because there’s a new installment, not because it has anything new to say.&lt;/s6&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T142558Z" creationid="diegodiaz" creationdate="20230519T142558Z">
+        <seg>Por primera vez, &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; parece estar en peligro de convertirse en otra película de terror de larga duración donde los fanáticos la verán porque es una serie nueva no porque tenga algo nuevo que decir.&lt;/s6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It’s also possible that &lt;/s12&gt;&lt;i13&gt;&lt;s14&gt;Scream VI&lt;/s14&gt;&lt;/i13&gt;&lt;s15&gt;’s recursiveness and relative aimlessness is a deliberate statement on the nature of franchise filmmaking, where the only point of most installments is to keep the wheels turning, but if so, it’s done without the usual wink towards the camera.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T142536Z" creationid="diegodiaz" creationdate="20230519T142536Z">
+        <seg>también es posible que  &lt;/s12&gt;&lt;i13&gt;&lt;s14&gt;la presencia recurrente de Scream VI&lt;/s14&gt;&lt;/i13&gt;&lt;s15&gt; y su relativa falta de rumbo sean declaraciones deliberadas sobre la naturaleza de las franquicias cinematográficas, la mayoría de las cuales tienen el único propósito de seguir girand pero si ese es el caso, se acabó, no parpadeó a la cámara como de costumbre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It’s difficult to pull off a short wig.</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230519T131240Z" creationid="diegodiaz" creationdate="20230519T131240Z">
@@ -1395,6 +1427,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T155042Z" creationid="OmegaT Aligner" creationdate="20230518T155042Z">
         <seg>Uno de los retos técnicos de la grabación de la partitura fue incorporar el scratch turntablism a una grabación orquestal, un proceso que en su día podría haber requerido prensar la sesión de orquesta de estudio en vinilo y luego hacer que un DJ jugueteara con ella en directo para grabarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only time and deeper viewing will reveal whether the storytellers are playing a long game or have simply tripped over themselves in the rush to produce a follow-up to a hit, as countless filmmakers have done before them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230519T142545Z" creationid="diegodiaz" creationdate="20230519T142545Z">
+        <seg>solo el tiempo y una observación más cercana dirán si los narradores están jugando el juego largo o simplemente se enamoraron de él en su prisa por hacer una secuela de gran éxito como innumerables cineastas antes.</seg>
       </tuv>
     </tu>
     <tu>
