@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1409,8 +1409,8 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       <tuv lang="en">
         <seg>Of Course!</seg>
       </tuv>
-      <tuv lang="es" changeid="diegodiaz" changedate="20230519T142727Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
-        <seg>Por supesto. </seg>
+      <tuv lang="es" changeid="sanch" changedate="20230525T102144Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Por supesto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1569,8 +1569,8 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       <tuv lang="en">
         <seg>Special?</seg>
       </tuv>
-      <tuv lang="es" changeid="diegodiaz" changedate="20230519T142737Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
-        <seg>Especial  </seg>
+      <tuv lang="es" changeid="sanch" changedate="20230525T102125Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
+        <seg>Especial</seg>
       </tuv>
     </tu>
     <tu>
