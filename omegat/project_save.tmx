@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230507T151317Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>&lt;/s3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/s3&gt; &lt;f4&gt;&lt;i5/&gt;&lt;n6&gt;&lt;i7/&gt;&lt;/n6&gt;&lt;f8&gt;Competing visions of the end of days on ‘The Last of Us’ (left) and ‘Station Eleven’ (right: David Wilmot and Caitlin McRill FitzGerald) &lt;s9&gt;Left: Courtesy of HBO; right: Ian Watson/HBO Max&lt;/s9&gt;&lt;/f8&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230518T175640Z" creationid="OmegaT Aligner" creationdate="20230518T160452Z">
@@ -238,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Here Mohammed discusses laying the groundwork for Nate’s sudden turn, playing a so-called villain and how much &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Ted Lasso&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; has changed his career.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230528T192911Z" creationid="diegodiaz" creationdate="20230528T192911Z">
+        <seg>&lt;s0&gt;Here Mohammed discusses laying the groundwork for Nate’s sudden turn, playing a so-called villain and how mu&gt;Hech &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Ted Lasso&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; has changed his career.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;I always tried to find a way of empathizing with his behavior, even though I wasn’t ever personally condoning his actions.</seg>
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230519T131707Z" creationid="diegodiaz" creationdate="20230519T131707Z">
@@ -362,6 +378,14 @@
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230505T161706Z" creationid="OmegaT Aligner" creationdate="20230505T161401Z">
         <seg>&lt;s0&gt;El final de temporada de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; muestra que el emocionalmente herido padre Joel (Pedro Pascal) elige la vida de su hija de alquiler Ellie (Bella Ramsey) por encima del futuro de la raza humana, asesinando a una célula completa de la resistencia Firefly que pretendía cosechar el cuerpo de Ellie para generar una cura para la infección cordyceps que ha asolado el planeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;The second season of &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Ted Lasso&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; ended with a twist we should have seen coming: Nate Shelley, Richmond’s soft-spoken kit man-turned-assistant coach went bad.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230511T155316Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>&lt;s0&gt;La segunda temporada de &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Ted Lasso&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; terminó con un giro que deberíamos haber visto venir: Nate Shelley, el entrenador de Richmond que se convirtió en ayudante de entrenador, salió mal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +602,22 @@
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230512T153102Z" creationid="Raquel" creationdate="20230512T153102Z">
         <seg>Tal como escribí en la reseña de la serie, tanto en el videojuego como en la serie &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;The Last of Us&lt;/s2&gt;&lt;/i1&gt; &lt;a3&gt;&lt;s4&gt;utiliza un atajo común&lt;/s4&gt;&lt;/a3&gt;&lt;s5&gt; para darle un significado maduro a este trabajo de ciencia ficción: infaliblemente sombrío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As played by British actor Nick Mohammed, the subtle shift in Nate’s persona (evidenced by his hair slowly turning grey) left the series on a cliffhanger that carries over into the third season.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230511T155441Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>Interpretado por el actor británico Nick Mohammed, el sutil cambio en la personalidad de Nate (evidenciado por su pelo volviéndose lentamente gris ) dejó la serie en un cliffhanger que se traslada a la tercera temporada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the season three opens, Nate is managing West Ham, the formidable Premier League club owned by Rupert Mannion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230507T151317Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>Al comienzo de la tercera temporada, Nate dirige el West Ham, el formidable club de la Premier League propiedad de Rupert Mannion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He’s on the outs with Ted (Jason Sudeikis) and the rest of the Richmond players and staff.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230511T155605Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>ÉL está en out con con Ted (Jason Sudeikis) y el resto de jugadores y empleados del Richmond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He’s riddled with insecurities.</seg>
       </tuv>
       <tuv lang="es" changeid="Raquel" changedate="20230528T164937Z" creationid="diegodiaz" creationdate="20230518T163811Z">
@@ -1154,6 +1202,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
         <seg>A principios de los años 50, una Carol Aird a punto de divorciarse atrae la mirada y el corazón de Therese (Rooney Mara), una ingenua fotógrafa que realmente ha considerado sus verdaderos deseos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the hands of Mohammed, however, Nate is less of a villain and more of a confused, lost soul in need of some of that Ted Lasso charm he pushed aside.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230507T151317Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>En manos de Mohammed, sin embargo, Nate es menos un villano y más un alma confundida y perdida que necesita un poco de ese encanto de Ted Lasso que dejó de lado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1447,6 +1503,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nick Mohammed On Taking Nate To The Dark Side In Season 3 of ‘Ted Lasso’</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230507T151317Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>Nick Mohammed sobre llevar a Nate al lado oscuro en la tercera temporada de 'Ted Lasso'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not So Much</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
@@ -1679,6 +1743,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Emmy-nominated actor hopes his portrayal of Nate is empathetic and understanding, as well as formidable, a sensibility that threads through the character’s arc as the new episodes unfold.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230511T155813Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>El actor nominado a los Emmy espera que su interpretación de Nate sea empática y comprensiva, además de formidable, una sensibilidad que entrelaza a través el  arco del personaje a medida que se desarrollan los nuevos episodios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Music of ‘Spider-Man’ Makes A Live Leap From The Spider-Verse To Brooklyn</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230505T152922Z" creationid="sanch" creationdate="20230505T151441Z">
@@ -1747,6 +1819,14 @@ A Keira Knightley le encantan las obras de época, pero &lt;e0&gt;El estrangulad
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
         <seg>La superfan está dispuesta a llegar a extremos para proteger los intereses de su ídolo, incluso si eso significa que tiene que acabar con algunas personas por el camino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The transformation of Nate "The Great" Shelley into a villain was planned from season 1 ("they’re so smart, those writers") but how long it took put on that grey wig came as a surprise.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230511T155048Z" creationid="OmegaT Aligner" creationdate="20230507T151317Z">
+        <seg>La transformación de Nate "El Grande" Shelley en villano fue  planeada desde la primera temporada ("qué listos son esos guionistas"), pero el tiempo que tardó en ponerse esa peluca gris fue toda una sorpresa.</seg>
       </tuv>
     </tu>
     <tu>
