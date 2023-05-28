@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>(If there’s anything &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; teaches us, it’s that people can withstand being stabbed many, many times if they’re popular enough.) Amongst the array of new suspects/potential victims are salt-and-pepper square jaw Dermott Mulroney; star of the directors’ debut feature &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Ready or Not,&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt; Samara Weaving; and Jack Champion, who is unrecognizable without the awful blond dreads he wore as Spider in &lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Avatar 2&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230528T181756Z" creationid="diegodiaz" creationdate="20230528T181756Z">
+        <seg>(Sí  algo nos enseña &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt; Entre el abanico de nuevos sospechosos/víctimas potenciales están Dermott Mulrone ; la estrella de la ópera prima de los directores &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;Preparado o no ,&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt; Samara Weaving y Jack Champion, irreconocible sin las horribles rastas rubias que llevaba como Spider en &lt;/s9&gt;&lt;i10&gt;&lt;s11&gt;Avatar 2&lt;/s11&gt;&lt;/i10&gt;&lt;s12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2022’s &lt;/s18&gt;&lt;i19&gt;&lt;s20&gt;Scream&lt;/s20&gt;&lt;/i19&gt;&lt;s21&gt;, the first without Williamson or director Wes Craven, takes the piss out of the current “requel” or “legasequel” trend, in which the original cast passes the torch to a new generation.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
@@ -426,6 +434,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T162219Z" creationid="OmegaT Aligner" creationdate="20230518T162219Z">
         <seg>&lt;s8&gt;Escrito por: &lt;/s8&gt;&lt;s9&gt;James Vanderbilt, Guy Busick&lt;/s9&gt;&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A big cast means more fingers to point and gallons of blood to spare.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230528T181939Z" creationid="diegodiaz" creationdate="20230528T181939Z">
+        <seg>Un reparto numeroso significa más dedos que señalar y litros de sangre de sobra.</seg>
       </tuv>
     </tu>
     <tu>
