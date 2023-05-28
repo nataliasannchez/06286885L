@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Throttling back on the overt genre commentary also costs &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream VI&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; some of the protection from criticism enjoyed by its predecessors.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230528T182518Z" creationid="diegodiaz" creationdate="20230528T182518Z">
+        <seg>&lt;s0&gt;La reducción de los comentarios de género obsceno también le costó  &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;a Scream  VI&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;algunas de las defensas críticas de las que disfrutaron sus predecesores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;When he was approached about &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Spider-Man: Into the Spider-Verse&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;, an animated film about an Afro-Latinx teenager from Brooklyn who takes up the mantle of the web-slinging vigilante, the turntable-scratched orchestra seemed like a fit, but Pemberton was initially skeptical that a big-budget animated superhero movie would be a welcome venue for his experimentation.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230512T152036Z" creationid="sanch" creationdate="20230505T161659Z">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T164244Z" creationid="OmegaT Aligner" creationdate="20230518T164244Z">
         <seg>A principios de los años 50, una Carol Aird a punto de divorciarse atrae la mirada y el corazón de Therese (Rooney Mara), una ingenua fotógrafa que realmente ha considerado sus verdaderos deseos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the past, &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Scream&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;’s genre-savvy characters have been positioned to play defense for the movie as it happens.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230528T182348Z" creationid="diegodiaz" creationdate="20230528T182348Z">
+        <seg>en el pasado, &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;los personajes de Scream &lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;conocedores del género, defendieron la película por su cuenta.</seg>
       </tuv>
     </tu>
     <tu>
