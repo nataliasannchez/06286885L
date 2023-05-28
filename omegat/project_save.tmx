@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;The more exciting returning character is Kirby Reed (Hayden Panettiere), who’s back in a surprising new capacity after apparently surviving the events of &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream 4&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="diegodiaz" changedate="20230528T181536Z" creationid="diegodiaz" creationdate="20230528T181536Z">
+        <seg>&lt;s0&gt;el personaje más inesperado que regresa es Kirby Reed ( Hayden Panettiere), que está de vuelta para sorpendernos con su nueva capacidad de sobrevivir a los hechos de  &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream 4&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;The real key to the tension is, of course, the characters, and &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt;Scream&lt;/s2&gt;&lt;/i1&gt;&lt;s3&gt; has never had a more lovable cast for audiences to fret over.</seg>
       </tuv>
       <tuv lang="es" changeid="sanch" changedate="20230518T163518Z" creationid="OmegaT Aligner" creationdate="20230518T162802Z">
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="es" changeid="diegodiaz" changedate="20230518T164504Z" creationid="diegodiaz" creationdate="20230518T164504Z">
         <seg>Todo está en el guión, no puedo atribuirme el mérito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It’s also new territory for Mohammed, known for more soft-spoken roles, as well as his beloved character Mr. Swallow.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230518T161906Z" creationid="OmegaT Aligner" creationdate="20230518T161906Z">
+        <seg>También es un nuevo territorio para Mohammed, conocido por papeles más suaves, así como por su querido personaje del Sr. Golondrina.</seg>
       </tuv>
     </tu>
     <tu>
