@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1232,8 +1232,8 @@
       <tuv lang="en">
         <seg>Indeed, before the film’s release, few outside the production suspected that &lt;/s3&gt;&lt;i4&gt;&lt;s5&gt;Spider-Verse&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;, &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;yet another goddamn Spider-Man movie, &lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;was going to be an artistically groundbreaking work of cinema that would delight critics and push the medium of animation to a new level.</seg>
       </tuv>
-      <tuv lang="es" changeid="sanch" changedate="20230512T152438Z" creationid="sanch" creationdate="20230505T162108Z">
-        <seg>De hecho, antes de que se emitiera la película, algunos fuera de la producción sospechaban que&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;Spider-Verse &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;u otra maldita película de Spider-Man,&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;iba a ser una obra artisticamente revolcionaria en el cine y que fuera a deleitar críticas y propulsar la técnica de animación a un nuevo nivel. </seg>
+      <tuv lang="es" changeid="sanch" changedate="20230531T095006Z" creationid="sanch" creationdate="20230505T162108Z">
+        <seg>De hecho, antes de que se emitiera la película, algunos fuera de la producción sospechaban que&lt;/s5&gt;&lt;/i4&gt;&lt;s6&gt;Spider-Verse &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;u otra maldita película de Spider-Man&lt;/s8&gt;&lt;/i7&gt;&lt;s9&gt;iba a ser una obra artisticamente revolcionaria en el cine y que fuera a deleitar críticas y propulsar la técnica de animación a un nuevo nivel. </seg>
       </tuv>
     </tu>
     <tu>
